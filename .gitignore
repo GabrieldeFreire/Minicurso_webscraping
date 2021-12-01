@@ -1,0 +1,8 @@
+gabarito*
+*.scrapy
+*.png
+*.ipynb_checkpoints
+__pycache__
+.vitrual_documents
+.virtual_documents/
+.vscode
