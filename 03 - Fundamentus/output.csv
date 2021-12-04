@@ -1,0 +1,785 @@
+Papel,Cotação,Tipo,Data últ cot,Empresa,Min 52 sem,Setor,Max 52 sem,Subsetor,Vol $ méd (2m)
+AALR3 ,"18,50",ON NM,30/11/2021,ALLIAR ON NM,"8,63",Serv.Méd.Hospit. Análises e Diagnósticos,"18,65",Serv.Méd.Hospit. Análises e Diagnósticos,18.459.600
+AMIL3,"32,20",ON NM,08/05/2013,AMIL ON NM,"0,00",Serv.Méd.Hospit. Análises e Diagnósticos,"0,00",Serv.Méd.Hospit. Análises e Diagnósticos,0
+AMAR3,"3,69",ON NM,30/11/2021,LOJAS MARISA ON NM,"3,69",Comércio,"10,01","Tecidos, Vestuário e Calçados",33.815.400
+ALUP4,"8,06",PN N2,30/11/2021,ALUPAR PN N2,"7,37",Energia Elétrica,"9,54",Energia Elétrica,984.038
+ALUP3,"8,11",ON N2,30/11/2021,ALUPAR ON N2,"7,64",Energia Elétrica,"9,31",Energia Elétrica,981.900
+ALPA3,"32,85",ON N1,30/11/2021,ALPARGATAS ON N1,"28,80","Tecidos, Vestuário e Calçados","52,36",Calçados,81.348
+ALLL4,"3,32",PN,21/10/2010,RUMO S.A. PN,"0,00",Transporte,"0,00",Transporte Ferroviário,0
+AHEB5,"23,00",PNA,24/11/2021,PARQUE ANHEMBI PNA,"18,00",Viagens e Lazer,"25,50",Produção de Eventos e Shows,380
+AGXY3,"8,97",ON NM,30/11/2021,AGROGALAXY ON NM,"7,00",Agropecuária,"10,65",Agricultura,336.084
+AGRO3,"23,54",ON NM,30/11/2021,BRASILAGRO ON NM,"19,76",Agropecuária,"32,85",Agricultura,26.752.700
+ALSO3,"20,56",ON,30/11/2021,ALIANSCSONAE ON,"19,18",Exploração de Imóveis,"32,07",Exploração de Imóveis,32.125.000
+YDUQ3,"21,83",ON,30/11/2021,YDUQS PART ON,"20,86",Diversos,"36,55",Serviços Educacionais,73.384.300
+ALSC3,"27,75",ON NM,05/08/2019,ALIANSCE ON NM,"18,48",Exploração de Imóveis,"28,35",Exploração de Imóveis,0
+AMER3,"30,32",ON,30/11/2021,AMERICANAS ON,"29,37",Comércio,"90,39",Produtos Diversos,282.546.000
+ALUP11,"24,16",UNT N2,30/11/2021,ALUPAR UNT N2,"22,45",Energia Elétrica,"28,15",Energia Elétrica,23.000.000
+ALPK3,"4,01",ON NM,30/11/2021,ESTAPAR ON NM,"4,01",Serviços Diversos,"9,55",Serviços Diversos,132.546
+AMBP3,"39,44",ON NM,30/11/2021,AMBIPAR ON NM,"20,93",Água e Saneamento,"69,45",Água e Saneamento,72.354.800
+WMBY3,"25,39",ON,05/04/2010,WEMBLEY SOCIEDADE ANÔNIMA ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+WISA4,"0,25",PN,27/06/2012,WIEST SA PN,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+WEST3,"3,30",ON NM,30/11/2021,WESTWING ON NM,"3,30",Programas e Serviços,"12,18",Programas e Serviços,4.235.340
+ALLD3,"16,21",ON NM,30/11/2021,ALLIED ON NM,"15,59",Comércio,"37,73",Eletrodomésticos,7.064.090
+ALLL3,"3,97",ON,31/03/2015,RUMO S.A. ON,"0,00",Transporte,"0,00",Transporte Ferroviário,0
+AHEB6,"51,50",PNB,22/06/2021,PARQUE ANHEMBI PNB,"19,61",Viagens e Lazer,"51,50",Produção de Eventos e Shows,0
+AHEB3,"26,50",ON,29/11/2021,PARQUE ANHEMBI ON,"20,00",Viagens e Lazer,"28,90",Produção de Eventos e Shows,1.545
+AGIN3,"5,29",ON NM,11/02/2010,Agra Incorp ON NM,"0,00",Construção Civil,"0,00",Incorporações,0
+ALLL11,"16,50",UNT,21/10/2010,RUMO S.A. UNT,"0,00",Transporte,"0,00",Transporte Ferroviário,0
+VVAR11,"14,58",UNT N2,23/11/2018,VIA UNT N2,"0,00",Comércio,"0,00",Eletrodomésticos,0
+WLMM4,"36,00",PN,30/11/2021,WLM PN,"23,51",Comércio,"42,25",Material de Transporte,65.971
+WSON33,"67,00",DR3,22/10/2021,Wilson Sons DR3,"39,13",Transporte,"68,21",Serviços de Apoio e Armazenagem,517.003
+VSPT3,"0,00",ON,-,FERROVIA CENTRO-ATLÂNTICA S.A. ON,"0,00",Transporte,"0,00",Transporte Ferroviário,0
+VPTA4,"10,50",PN,16/12/2009,VPTA PN,"0,00",Transporte,"0,00",Transporte Aéreo,0
+WLMM3,"35,00",ON,19/11/2021,WLM ON,"17,57",Comércio,"44,34",Material de Transporte,7.566
+VPSC4,"9,99",PN,04/01/2010,VPSC PN,"0,00",Transporte,"0,00",Serviços de Apoio e Armazenagem,0
+WHRL3,"6,55",ON,30/11/2021,WHIRLPOOL S.A. ON,"6,14",Utilidades Domésticas,"7,05",Eletrodomésticos,55.541
+WISA3,"0,20",ON,27/06/2012,WIEST SA ON,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+WHRL4,"8,02",PN,30/11/2021,WHIRLPOOL S.A. PN,"6,88",Utilidades Domésticas,"8,90",Eletrodomésticos,122.730
+WIZS3,"8,19",ON NM,30/11/2021,WIZ S.A. ON NM,"5,62",Previdência e Seguros,"18,54",Corretoras de Seguros,25.993.700
+WEGE4,"16,10",PN N1,31/05/2007,WEG SA PN N1,"0,00",Máquinas e Equipamentos,"0,00","Motores, Compressores e Outros",0
+VVEO3,"17,02",ON NM,30/11/2021,VIVEO ON NM,"17,02",Comércio e Distribuição,"27,14",Medicamentos e Outros Produtos,4.321.000
+WEGE3,"32,23",ON N1,30/11/2021,WEG SA ON N1,"31,12",Máquinas e Equipamentos,"45,67","Motores, Compressores e Outros",266.618.000
+VLID3,"8,26",ON NM,30/11/2021,VALID ON NM,"7,08",Serviços Diversos,"11,00",Serviços Diversos,3.881.130
+VIVR3,"1,38",ON NM,30/11/2021,VIVER ON NM,"0,80",Construção Civil,"9,81",Incorporações,29.797.500
+VIVA3,"24,51",ON NM,30/11/2021,VIVARA S.A. ON NM,"21,90","Tecidos, Vestuário e Calçados","34,56",Acessórios,27.216.800
+VINE5,"17,64",PNA,28/11/2013,VICUNHA TEXTIL SA PNA,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+VINE3,"17,20",ON,04/11/2013,VICUNHA TEXTIL SA ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+VIIA3,"5,67",ON,30/11/2021,VIA ON,"5,56",Comércio,"17,65",Eletrodomésticos,311.872.000
+VCPA4,"26,01",PN N1,11/08/2009,Fibria PN N1,"0,00",Madeira e Papel,"0,00",Papel e Celulose,0
+VVAR4,"4,84",PN,23/11/2018,VIA PN,"0,00",Comércio,"0,00",Eletrodomésticos,0
+VSPT4,"0,00",PN,-,FERROVIA CENTRO-ATLÂNTICA S.A. PN,"0,00",Transporte,"0,00",Transporte Ferroviário,0
+VALE5,"33,36",ON NM,24/11/2017,VALE ON NM,"0,00",Mineração,"0,00",Minerais Metálicos,0
+VALE3,"69,95",ON NM,30/11/2021,VALE ON NM,"62,33",Mineração,"106,26",Minerais Metálicos,2.041.010.000
+VPTA3,"5,00",ON,28/01/2009,VPTA ON,"0,00",Transporte,"0,00",Transporte Aéreo,0
+VULC3,"10,10",ON,30/11/2021,VULCABRAS S/A. ON,"6,79","Tecidos, Vestuário e Calçados","10,86",Calçados,10.095.800
+VULC4,"18,00",PN,22/02/2008,VULCABRAS S/A. PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Calçados,0
+VPSC3,"6,03",ON,28/12/2009,VPSC ON,"0,00",Transporte,"0,00",Serviços de Apoio e Armazenagem,0
+USIM6,"18,97",PNB N1,24/11/2021,USIMINAS PNB N1,"10,99",Siderurgia e Metalurgia,"28,25",Siderurgia,190
+USIM3,"13,00",ON N1,30/11/2021,USIMINAS ON N1,"11,71",Siderurgia e Metalurgia,"22,71",Siderurgia,5.381.290
+VNET3,"0,00",ON NM,-,CIELO ON NM,"0,00",Serviços Financeiros Diversos,"0,00",Serviços Financeiros Diversos,0
+VIVT4,"45,34",PN,20/11/2020,TELEF BRASIL PN,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+UGPA3,"14,43",ON,30/11/2021,ULTRAPAR PARTICIPAÇÕES SA ON,"12,38","Petróleo, Gás e Biocombustíveis","24,10","Exploração, Refino e Distribuição",120.789.000
+VITT3,"12,60",ON NM,30/11/2021,VITTIA ON NM,"8,94",Químicos,"13,22",Fertilizantes e Defensivos,1.394.280
+VBBR3,"21,76",ON,30/11/2021,VIBRA ON,"17,53","Petróleo, Gás e Biocombustíveis","29,13","Exploração, Refino e Distribuição",258.821.000
+VIVT3,"50,29",ON,30/11/2021,TELEF BRASIL ON,"40,50",Telecomunicações,"53,00",Telecomunicações,144.037.000
+UBBR11,"14,75",UNT N1,30/03/2009,UNIBANCO SA UNT N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+TXRX3,"29,80",ON,28/10/2021,RENAUX ON,"29,80","Tecidos, Vestuário e Calçados","108,00",Fios e Tecidos,1.420
+TVIT3,"19,30",ON NM,12/01/2011,TIVIT ON NM,"0,00",Programas e Serviços,"0,00",Programas e Serviços,0
+TUPY3,"19,31",ON,30/11/2021,TUPY ON,"19,18",Material de Transporte,"26,15",Material Rodoviário,19.160.300
+TTEN3,"7,40",ON NM,30/11/2021,3TENTOS ON NM,"7,40",Agropecuária,"12,15",Agricultura,11.471.500
+VAGV3,"1,14",ON,19/11/2009,SAVIRG ON,"0,00",Transporte,"0,00",Transporte Aéreo,0
+VAGV4,"1,02",PN,04/01/2010,SAVIRG PN,"0,00",Transporte,"0,00",Transporte Aéreo,0
+VAMO3,"11,18",ON NM,30/11/2021,VAMOS ON NM,"7,44",Diversos,"18,40",Aluguel de carros,50.649.800
+USIM5,"13,59",PNA N1,30/11/2021,USIMINAS PNA N1,"12,05",Siderurgia e Metalurgia,"22,24",Siderurgia,355.845.000
+TRPL3,"31,19",ON N1,30/11/2021,TRANSMISSÃO PAULISTA ON N1,"23,86",Energia Elétrica,"33,66",Energia Elétrica,104.490
+UOLL4,"19,62",PN,18/01/2012,UOL PN,"0,00",Programas e Serviços,"0,00",Programas e Serviços,0
+UNIP3,"93,90",ON,30/11/2021,UNIPAR PARTICIPAÇÕES S.A. ON,"36,78",Químicos,"97,46",Químicos Diversos,4.799.090
+UNIP6,"89,09",PNB,30/11/2021,UNIPAR PARTICIPAÇÕES S.A. PNB,"36,66",Químicos,"100,29",Químicos Diversos,33.521.100
+UNIP5,"92,00",PNA,30/11/2021,UNIPAR PARTICIPAÇÕES S.A. PNA,"36,12",Químicos,"98,67",Químicos Diversos,30.963
+TRAD3,"7,89",ON NM,30/11/2021,TC ON NM,"5,39",Programas e Serviços,"13,21",Programas e Serviços,28.395.600
+UCAS3,"4,00",ON NM,30/11/2021,UNICASA ON NM,"3,87",Utilidades Domésticas,"5,60",Móveis,179.260
+UGPA4,"27,10",PN,16/08/2011,ULTRAPAR PARTICIPAÇÕES SA PN,"0,00","Petróleo, Gás e Biocombustíveis","0,00","Exploração, Refino e Distribuição",0
+UBBR4,"7,49",PN N1,30/03/2009,UNIBANCO SA PN N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+TPRC3,"113,50",ON,05/07/2005,TIM PARTICIPAÇÕES S.A. ON,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+TPIS3,"1,87",ON NM,30/11/2021,TRIUNFO PARTICIPACOES SA ON NM,"1,54",Transporte,"4,83",Exploração de Rodovias,6.178.890
+UBBR3,"18,00",ON N1,30/03/2009,UNIBANCO SA ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+TXRX4,"8,80",PN,30/11/2021,RENAUX PN,"8,60","Tecidos, Vestuário e Calçados","12,80",Fios e Tecidos,8.633
+TUPY4,"48,21",PN,08/02/2013,TUPY PN,"0,00",Material de Transporte,"0,00",Material Rodoviário,0
+TRPN3,"0,71",ON NM,17/07/2019,TARPON INV ON NM,"0,32",Holdings Diversificadas,"0,80",Holdings Diversificadas,0
+TRPL4,"23,30",PN N1,30/11/2021,TRANSMISSÃO PAULISTA PN N1,"21,19",Energia Elétrica,"25,56",Energia Elétrica,31.203.000
+TRIS3,"5,44",ON NM,30/11/2021,Trisul ON NM,"5,39",Construção Civil,"12,50",Incorporações,10.822.000
+TPRC6,"105,00",PNB,06/07/2005,TIM PARTICIPAÇÕES S.A. PNB,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+TOTS3,"31,69",ON NM,30/11/2021,TOTVS ON NM,"25,12",Programas e Serviços,"40,60",Programas e Serviços,133.049.000
+TIET4,"3,51",PN N2,26/03/2021,AES TIETE E PN N2,"3,09",Energia Elétrica,"3,53",Energia Elétrica,0
+TIET3,"3,49",ON N2,26/03/2021,AES TIETE E ON N2,"3,10",Energia Elétrica,"3,57",Energia Elétrica,0
+TIET11,"17,44",UNT N2,26/03/2021,AES TIETE E UNT N2,"15,38",Energia Elétrica,"17,66",Energia Elétrica,0
+TGMA3,"13,03",ON NM,30/11/2021,Tegma ON NM,"13,03",Transporte,"28,58",Transporte Rodoviário,7.103.650
+TEND3,"17,07",ON NM,30/11/2021,Tenda ON NM,"16,55",Construção Civil,"30,60",Incorporações,33.760.300
+TKNO4,"69,00",PN,19/11/2021,TEKNO PN,"38,65",Siderurgia e Metalurgia,"69,00",Artefatos de Ferro e Aço,995
+TECN3,"2,38",ON NM,30/11/2021,TECHNOS ON NM,"1,22","Tecidos, Vestuário e Calçados","4,06",Acessórios,12.499.000
+TIMP3,"13,46",ON,09/10/2020,TIM PARTICIPAÇÕES S.A. ON,"12,20",Telecomunicações,"16,80",Telecomunicações,0
+TIMS3,"13,80",ON NM,30/11/2021,TIM ON NM,"11,16",Telecomunicações,"14,67",Telecomunicações,103.248.000
+TCSL4,"7,82",PN,02/08/2011,TIM PARTICIPAÇÕES S.A. PN,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+TCNO4,"1,80",PN,30/11/2021,TECNOSOLO S/A PN,"1,30",Construção e Engenharia,"6,28",Engenharia Consultiva,180.993
+TCNO3,"2,66",ON,30/11/2021,TECNOSOLO S/A ON,"1,67",Construção e Engenharia,"7,83",Engenharia Consultiva,122.580
+TFCO4,"10,76",PN,30/11/2021,TRACK FIELD PN,"10,76","Tecidos, Vestuário e Calçados","16,38",Vestuário,1.499.040
+TASA4,"22,25",PN,30/11/2021,TAURUS ARMAS PN,"14,01",Máquinas e Equipamentos,"28,76",Armas e Munições,28.853.200
+TESA3,"48,00",ON NM,30/07/2021,TERRA SANTA ON NM,"25,58",Agropecuária,"50,80",Agricultura,0
+TERI3,"64,28",ON NM,26/09/2016,TEREOS ON NM,"0,00",Alimentos Processados,"0,00",Alimentos Diversos,0
+TENE7,"9,80",PNC,08/02/2017,TECBLU PNC,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+TANC4,"43,00",PN,27/04/2005,TAM PN,"0,00",Transporte,"0,00",Transporte Aéreo,0
+TAMM4,"52,73",PN,18/07/2012,TAM PN,"0,00",Transporte,"0,00",Transporte Aéreo,0
+TAMM3,"52,60",ON,11/07/2012,TAM ON,"0,00",Transporte,"0,00",Transporte Aéreo,0
+TAEE4,"11,99",PN N2,30/11/2021,TAESA PN N2,"9,40",Energia Elétrica,"13,56",Energia Elétrica,2.094.900
+TAEE11,"36,03",UNT,30/11/2021,TAESA UNT,"28,07",Energia Elétrica,"40,69",Energia Elétrica,90.358.800
+TENE5,"0,50",PNA,16/05/2016,TECBLU PNA,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+TEMP3,"4,15",ON,29/04/2016,TEMPO PART ON,"0,00",Serv.Méd.Hospit. Análises e Diagnósticos,"0,00",Serv.Méd.Hospit. Análises e Diagnósticos,0
+TELB4,"16,80",PN,30/11/2021,TELEBRAS PN,"16,80",Telecomunicações,"34,65",Telecomunicações,75.039
+SYNE3,"12,45",ON NM,30/11/2021,SYN PROP TEC ON NM,"9,65",Exploração de Imóveis,"14,13",Exploração de Imóveis,8.217.410
+TELB3,"45,00",ON,30/11/2021,TELEBRAS ON,"45,00",Telecomunicações,"104,99",Telecomunicações,34.352
+TEKA4,"10,19",PN,30/11/2021,TEKA S.A. PN,"8,40","Tecidos, Vestuário e Calçados","28,50",Fios e Tecidos,43.419
+SUZB3,"56,16",ON,30/11/2021,Suzano Papel ON,"48,38",Madeira e Papel,"79,18",Papel e Celulose,427.948.000
+SUZA4,"13,90",PN N1,04/08/2004,SUZANO HOLDING S.A. PN N1,"0,00",Holdings Diversificadas,"0,00",Holdings Diversificadas,0
+TEKA3,"26,10",ON,05/10/2021,TEKA S.A. ON,"21,56","Tecidos, Vestuário e Calçados","107,00",Fios e Tecidos,65
+SULA11,"24,96",UNT N2,30/11/2021,Sul America UNT N2,"24,59",Previdência e Seguros,"42,41",Seguradoras,110.928.000
+TCSA3,"3,47",ON NM,30/11/2021,TECNISA ON NM,"3,44",Construção Civil,"10,28",Incorporações,4.346.910
+TBLE6,"10,65",PNB,08/08/2005, ENGIE BRASIL PNB,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+TBLE5,"12,00",PNA,12/07/2005, ENGIE BRASIL PNA,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+TASA3,"22,25",ON,30/11/2021,TAURUS ARMAS ON,"13,74",Máquinas e Equipamentos,"28,53",Armas e Munições,1.036.520
+SQIA3,"15,47",ON,30/11/2021,SINQIA ON,"15,47",Programas e Serviços,"30,64",Programas e Serviços,24.609.800
+TARP11,"18,02",DR3,26/11/2010,TARPON DR3,"0,00",Holdings Diversificadas,"0,00",Holdings Diversificadas,0
+TAEE3,"11,95",ON N2,30/11/2021,TAESA ON N2,"9,40",Energia Elétrica,"13,57",Energia Elétrica,913.718
+SZPQ4,"6,64",PN,12/01/2011,SUZANO PETROQUIMICA S.A. PN,"0,00",Químicos,"0,00",Petroquímicos,0
+SUZB6,"17,88",PNB,02/12/2015,Suzano Papel PNB,"0,00",Madeira e Papel,"0,00",Papel e Celulose,0
+SUZB5,"21,13",PNA,30/12/1899,Suzano Papel PNA,"0,00",Madeira e Papel,"0,00",Papel e Celulose,0
+SULA4,"8,30",PN,30/11/2021,Sul America PN,"8,14",Previdência e Seguros,"12,91",Seguradoras,274.696
+SNSY5,"5,07",PNA,30/11/2021,SANSUY S.A. INDÚSTRIA DE PLÁSTICOS PNA,"4,83",Materiais Diversos,"8,43",Materiais Diversos,17.630
+SULA3,"8,53",ON N2,30/11/2021,Sul America ON N2,"8,29",Previdência e Seguros,"16,83",Seguradoras,149.289
+SMLS3,"22,40",ON NM,04/06/2021,SMILES ON NM,"16,11",Diversos,"22,79",Programas de Fidelização,0
+STRP4,"0,21",PN,01/04/2011,STAROUP PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Vestuário,0
+STBP3,"5,99",ON NM,30/11/2021,SBPAR ON NM,"4,89",Transporte,"9,93",Serviços de Apoio e Armazenagem,39.219.500
+STBP11,"14,40",UNT,19/08/2016,SBPAR UNT,"0,00",Transporte,"0,00",Serviços de Apoio e Armazenagem,0
+SIMH3,"10,53",ON NM,30/11/2021,SIMPAR ON NM,"7,28",Holdings Diversificadas,"17,47",Holdings Diversificadas,32.661.300
+SHOW3,"3,40",ON NM,30/11/2021,TIME FOR FUN ON NM,"2,81",Viagens e Lazer,"7,79",Produção de Eventos e Shows,2.744.190
+SOJA3,"14,94",ON NM,30/11/2021,BOA SAFRA ON NM,"13,00",Agropecuária,"16,88",Agricultura,4.594.300
+SOND6,"35,51",PNB,16/09/2021,SONDOTECNICA S/A. PNB,"34,13",Construção e Engenharia,"49,49",Engenharia Consultiva,0
+SOND5,"34,53",PNA,01/11/2021,SONDOTECNICA S/A. PNA,"34,53",Construção e Engenharia,"52,74",Engenharia Consultiva,367
+SOND3,"40,20",ON,03/05/2021,SONDOTECNICA S/A. ON,"40,20",Construção e Engenharia,"41,26",Engenharia Consultiva,0
+SOMA3,"13,02",ON NM,30/11/2021,GRUPO SOMA ON NM,"11,90",Comércio,"20,20","Tecidos, Vestuário e Calçados",81.138.600
+SFSA3,"0,00",ON N1,30/12/1899,Sofisa ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+SEMP3,"16,86",ON,07/11/2008,SEMP TOSHIBA ON,"0,00",Comércio,"0,00",Eletrodomésticos,0
+SMFT3,"18,09",ON NM,30/11/2021,SMART FIT ON NM,"18,09",Viagens e Lazer,"32,20",Atividades Esportivas,29.185.500
+SMTO3,"35,11",ON NM,30/11/2021,SAO MARTINHO ON NM,"22,95",Alimentos Processados,"40,34",Açucar e Alcool,55.676.900
+SLED4,"0,35",PN,30/11/2021,EDITORA SARAIVA PN,"0,28",Comércio,"0,76",Produtos Diversos,409.830
+SEBB11,"23,27",UNT N2,18/03/2011,SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A UNT N2,"0,00",Diversos,"0,00",Serviços Educacionais,0
+SDIA4,"6,42",PN N1,21/09/2009,SADIA PN N1,"0,00",Alimentos Processados,"0,00",Carnes e Derivados,0
+SJOS4,"0,09",PN,01/03/2017,SÃO JOSÉ PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+SLED3,"0,64",ON,30/11/2021,EDITORA SARAIVA ON,"0,56",Comércio,"1,83",Produtos Diversos,118.340
+SLCE3,"38,38",ON NM,30/11/2021,SLC Agricola ON NM,"25,83",Agropecuária,"56,49",Agricultura,61.901.800
+SCLO4,"0,41",PN,01/03/2017,SCHLOSSER TECIDOS PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+SCLO3,"14,10",ON,24/05/2011,SCHLOSSER TECIDOS ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+SCAR3,"36,00",ON,30/11/2021,SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. ON,"31,71",Exploração de Imóveis,"48,52",Exploração de Imóveis,337.619
+SBFG3,"24,34",ON,30/11/2021,GRUPO SBF ON,"20,73",Comércio,"39,52",Produtos Diversos,32.886.000
+SGEN4,"0,60",PN,04/04/2013,SERGEN PN,"0,00",Construção Civil,"0,00",Incorporações,0
+SGPS3,"5,60",ON NM,30/11/2021,Springs ON NM,"5,60","Tecidos, Vestuário e Calçados","14,72",Fios e Tecidos,623.661
+SHUL4,"8,69",PN,30/11/2021,SCHULZ PN,"6,03",Máquinas e Equipamentos,"11,18","Motores, Compressores e Outros",2.599.590
+SJOS3,"1,19",ON,21/09/2010,SÃO JOSÉ ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+SAPR3,"3,69",ON,30/11/2021,SANEPAR ON,"3,52",Água e Saneamento,"6,35",Água e Saneamento,2.440.590
+SAPR11,"18,75",UNT N2,30/11/2021,SANEPAR UNT N2,"18,25",Água e Saneamento,"27,02",Água e Saneamento,27.717.600
+SANB4,"17,82",PN,30/11/2021,SANTANDER PN,"17,10",Intermediários Financeiros,"22,14",Bancos,966.834
+SANB3,"15,50",ON,30/11/2021,SANTANDER ON,"14,97",Intermediários Financeiros,"20,42",Bancos,568.068
+SGEN3,"5,00",ON,13/04/2011,SERGEN ON,"0,00",Construção Civil,"0,00",Incorporações,0
+SFSA4,"4,40",PN N1,18/11/2016,Sofisa PN N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+SEQL3,"9,80",ON NM,30/11/2021,SEQUOIA LOG ON NM,"9,80",Serviços Diversos,"31,25",Serviços Diversos,24.213.600
+RSIP4,"0,44",PN,12/07/2013,RASIP AGRO PASTORIL PN,"0,00",Agropecuária,"0,00",Agricultura,0
+RSID3,"7,94",ON N1,30/11/2021,ROSSI RESIDENCIAL ON N1,"6,21",Construção Civil,"14,50",Incorporações,1.065.680
+SEER3,"10,34",ON NM,30/11/2021,SER EDUCA ON NM,"10,20",Diversos,"18,96",Serviços Educacionais,11.769.300
+SDIA3,"6,42",ON N1,21/09/2009,SADIA ON N1,"0,00",Alimentos Processados,"0,00",Carnes e Derivados,0
+SEBB4,"0,00",PN N2,30/12/1899,SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A PN N2,"0,00",Diversos,"0,00",Serviços Educacionais,0
+SEBB3,"0,00",ON N2,30/12/1899,SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A ON N2,"0,00",Diversos,"0,00",Serviços Educacionais,0
+SCAR4,"10,00",PN,22/08/2006,SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. PN,"0,00",Exploração de Imóveis,"0,00",Exploração de Imóveis,0
+SASG3,"0,98",ON,12/05/2008,SUL AMERICA SEGUROS ON,"0,00",Previdência e Seguros,"0,00",Seguradoras,0
+SBSP3,"33,68",ON NM,30/11/2021,SABESP ON NM,"31,69",Água e Saneamento,"48,06",Água e Saneamento,80.474.100
+RNPT4,"31,81",PN,10/07/2009,RENNER PARTICIPAÇÕES S/A PN,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+RNPT3,"31,87",ON,20/07/2009,RENNER PARTICIPAÇÕES S/A ON,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+SANB11,"32,96",UNT,30/11/2021,SANTANDER UNT,"32,71",Intermediários Financeiros,"42,52",Bancos,104.748.000
+SAPR4,"3,80",PN,30/11/2021,SANEPAR PN,"3,72",Água e Saneamento,"5,19",Água e Saneamento,19.459.500
+RNEW3,"2,40",ON N2,30/11/2021,RENOVA ON N2,"2,36",Energia Elétrica,"6,70",Energia Elétrica,161.289
+RNEW11,"6,82",UNT N2,30/11/2021,RENOVA UNT N2,"6,82",Energia Elétrica,"20,49",Energia Elétrica,88.410
+RLOG3,"23,08",ON NM,05/03/2021,COSAN LOG ON NM,"16,11",Transporte,"23,08",Transporte Ferroviário,0
+RIPI4,"48,50",PN,22/01/2008,REFINARIA DE PETRÓLEO IPIRANGA SA PN,"0,00","Petróleo, Gás e Biocombustíveis","0,00","Exploração, Refino e Distribuição",0
+RHDS4,"1,00",PN,02/08/2007,M G POLIEST PN,"0,00",Químicos,"0,00",Petroquímicos,0
+RGEG3,"3,00",ON,14/01/2008,RGE - RIO GRANDE ENERGIA ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+RSUL4,"74,99",PN,30/11/2021,METALURGICA RIOSULENSE S/A PN,"18,00",Material de Transporte,"98,99",Material Rodoviário,259.653
+RRRP3,"27,62",ON NM,30/11/2021,3R PETROLEUM ON NM,"23,87","Petróleo, Gás e Biocombustíveis","49,00","Exploração, Refino e Distribuição",110.691.000
+RSIP3,"0,44",ON,04/07/2013,RASIP AGRO PASTORIL ON,"0,00",Agropecuária,"0,00",Agricultura,0
+RPMG4,"0,26",PN,16/12/2014,REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A PN,"0,00","Petróleo, Gás e Biocombustíveis","0,00","Exploração, Refino e Distribuição",0
+RPAD6,"5,34",PNB,26/11/2021,ALFA HOLDINGS PNB,"5,09",Intermediários Financeiros,"7,10",Bancos,5.785
+RPMG3,"2,93",ON,30/11/2021,REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A ON,"2,74","Petróleo, Gás e Biocombustíveis","6,32","Exploração, Refino e Distribuição",229.705
+RPAD3,"6,30",ON,30/11/2021,ALFA HOLDINGS ON,"5,95",Intermediários Financeiros,"9,70",Bancos,13.949
+RPAD5,"8,50",PNA,30/11/2021,ALFA HOLDINGS PNA,"8,05",Intermediários Financeiros,"10,50",Bancos,6.522
+RDNI3,"10,05",ON NM,30/11/2021,RNI ON NM,"7,99",Construção Civil,"12,90",Incorporações,275.778
+RDCD3,"35,16",ON NM,17/10/2012,Redecard ON NM,"0,00",Serviços Financeiros Diversos,"0,00",Serviços Financeiros Diversos,0
+RCTB41,"33,51",RPN,06/11/2006,TELEBRAS RPN,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+ROMI4,"185,00",PN,22/03/2007,ROMI PN,"0,00",Máquinas e Equipamentos,"0,00",Máq. e Equip. Industriais,0
+ROMI3,"15,69",ON,30/11/2021,ROMI ON,"11,25",Máquinas e Equipamentos,"36,93",Máq. e Equip. Industriais,10.609.400
+RNEW4,"2,17",PN N2,30/11/2021,RENOVA PN N2,"2,17",Energia Elétrica,"6,80",Energia Elétrica,466.454
+RCSL4,"1,30",PN,30/11/2021,RECRUSUL PN,"1,28",Material de Transporte,"2,25",Material Rodoviário,2.392.140
+RCSL3,"4,42",ON,30/11/2021,RECRUSUL ON,"3,37",Material de Transporte,"13,33",Material Rodoviário,16.838.700
+RAPT4,"11,07",PN N1,30/11/2021,RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES PN N1,"10,16",Material de Transporte,"15,77",Material Rodoviário,26.527.700
+RAPT3,"12,78",ON N1,30/11/2021,RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES ON N1,"9,44",Material de Transporte,"13,78",Material Rodoviário,189.570
+RANI4,"5,50",PN,11/12/2020,CELULOSE IRANI PN,"5,50",Madeira e Papel,"7,22",Papel e Celulose,0
+RANI3,"7,04",ON,30/11/2021,CELULOSE IRANI ON,"4,76",Madeira e Papel,"9,49",Papel e Celulose,13.671.900
+RIPI3,"48,01",ON,16/01/2008,REFINARIA DE PETRÓLEO IPIRANGA SA ON,"0,00","Petróleo, Gás e Biocombustíveis","0,00","Exploração, Refino e Distribuição",0
+RHDS3,"0,11",ON,16/10/2014,M G POLIEST ON,"0,00",Químicos,"0,00",Petroquímicos,0
+RENT3,"51,11",ON,30/11/2021,LOCALIZA RENT A CAR ON,"45,30",Diversos,"73,62",Aluguel de carros,353.462.000
+REDE4,"2,90",PN,26/07/2017,REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+RDOR3,"50,17",ON NM,30/11/2021,REDE D OR ON NM,"50,17",Serv.Méd.Hospit. Análises e Diagnósticos,"75,09",Serv.Méd.Hospit. Análises e Diagnósticos,145.327.000
+REDE3,"6,50",ON,30/11/2021,REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. ON,"6,31",Energia Elétrica,"10,43",Energia Elétrica,9.538
+RCTB42,"20,00",R42,31/08/2006,TELEBRAS R42,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+RCTB33,"57,00",R33,04/05/2006,TELEBRAS R33,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+RECV3,"13,77",ON NM,30/11/2021,PETRORECONCA ON NM,"13,56","Petróleo, Gás e Biocombustíveis","20,68","Exploração, Refino e Distribuição",15.548.400
+PTBL3,"8,27",ON,30/11/2021,PORTOBELLO S/A ON,"5,73",Construção e Engenharia,"17,97",Produtos para Construção,12.978.400
+PSSA3,"22,26",ON,30/11/2021,PORTO SEGURO SA ON,"20,12",Previdência e Seguros,"28,98",Seguradoras,65.694.100
+RAIL3,"17,57",ON NM,30/11/2021,RUMO S.A. ON NM,"15,99",Transporte,"21,70",Transporte Ferroviário,226.445.000
+RCTB31,"41,00",RON,13/11/2006,TELEBRAS RON,"0,00",Telecomunicações,"0,00",Telecomunicações,0
+RAIZ4,"5,46",PN N2,30/11/2021,RAIZEN PN N2,"5,46","Petróleo, Gás e Biocombustíveis","7,36","Exploração, Refino e Distribuição",77.762.700
+RAIA3,"30,50",ON NM,16/12/2011,RAIA ON NM,"0,00",Comércio e Distribuição,"0,00",Medicamentos e Outros Produtos,0
+PRGA4,"75,00",PN N1,11/04/2006,BRF Foods PN N1,"0,00",Alimentos Processados,"0,00",Carnes e Derivados,0
+RADL3,"22,38",ON,30/11/2021,RAIADROGASIL ON,"21,28",Comércio e Distribuição,"28,19",Medicamentos e Outros Produtos,178.205.000
+QUAL3,"15,73",ON NM,30/11/2021,QUALICORP ON NM,"15,73",Serv.Méd.Hospit. Análises e Diagnósticos,"33,09",Serv.Méd.Hospit. Análises e Diagnósticos,36.480.500
+PTNT4,"6,46",PN,30/11/2021,PETTENATI PN,"4,28","Tecidos, Vestuário e Calçados","7,54",Fios e Tecidos,150.106
+PTNT3,"20,10",ON,30/11/2021,PETTENATI ON,"5,20","Tecidos, Vestuário e Calçados","29,03",Fios e Tecidos,458.307
+PRML3,"11,52",ON NM,30/04/2018,PRUMO ON NM,"0,00",Transporte,"0,00",Serviços de Apoio e Armazenagem,0
+POMO4,"2,57",PN N2,30/11/2021,MARCOPOLO PN N2,"2,45",Material de Transporte,"3,57",Material Rodoviário,11.685.800
+PRIO3,"20,29",ON,30/11/2021,PETRORIO ON,"10,18","Petróleo, Gás e Biocombustíveis","28,15","Exploração, Refino e Distribuição",624.674.000
+PRTX3,"2,77",ON NM,17/08/2012,PORTX ON NM,"0,00",Transporte,"0,00",Serviços de Apoio e Armazenagem,0
+PRNR3,"6,63",ON NM,30/11/2021,PRINER ON NM,"6,30",Serviços Diversos,"10,64",Serviços Diversos,1.105.890
+PRBC4,"14,54",PN N1,17/10/2017,Parana PN N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+PTBL4,"2,59",PN,07/01/2008,PORTOBELLO S/A PN,"0,00",Construção e Engenharia,"0,00",Produtos para Construção,0
+PNVL3,"12,74",ON,30/11/2021,PANVEL FARMÁCIAS ON,"11,98",Comércio e Distribuição,"22,95",Medicamentos e Outros Produtos,14.581.500
+PNOR6,"1,87",PNB,11/05/2011,PRONOR PNB,"0,00",Químicos,"0,00",Petroquímicos,0
+PNOR5,"1,87",PNA,16/05/2011,PRONOR PNA,"0,00",Químicos,"0,00",Petroquímicos,0
+PMAM4,"5,84",PN,29/04/2010,PARANAPANEMA S.A. PN,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Cobre,0
+PRBC3,"0,00",ON N1,30/12/1899,Parana ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+POWE3,"11,13",ON NM,30/11/2021,FOCUS ON ON NM,"11,13",Energia Elétrica,"18,24",Energia Elétrica,4.854.520
+POSI3,"9,16",ON NM,30/11/2021,POSITIVO INF ON NM,"3,85",Computadores e Equipamentos,"15,58",Computadores e Equipamentos,39.935.000
+PQUN4,"15,44",PN,16/12/2008,PETROQUIMICA UNIAO S.A. PN,"0,00",Químicos,"0,00",Petroquímicos,0
+PORT3,"59,00",ON NM,30/11/2021,WILSON SONS ON NM,"59,00",Transporte,"71,00",Serviços de Apoio e Armazenagem,1.254.250
+PQUN3,"15,44",ON,16/12/2008,PETROQUIMICA UNIAO S.A. ON,"0,00",Químicos,"0,00",Petroquímicos,0
+POMO3,"2,34",ON,30/11/2021,MARCOPOLO ON,"2,32",Material de Transporte,"3,27",Material Rodoviário,788.130
+PFRM3,"4,79",ON NM,30/11/2021,PROFARMA ON NM,"4,64",Comércio e Distribuição,"6,76",Medicamentos e Outros Produtos,1.426.310
+PNVL4,"18,62",PN,04/08/2021,PANVEL FARMÁCIAS PN,"16,80",Comércio e Distribuição,"21,50",Medicamentos e Outros Produtos,0
+PLPL3,"3,06",ON NM,30/11/2021,PLANOEPLANO ON NM,"2,98",Construção Civil,"8,95",Incorporações,4.056.520
+PMAM3,"9,14",ON,30/11/2021,PARANAPANEMA S.A. ON,"8,57",Siderurgia e Metalurgia,"23,45",Artefatos de Cobre,5.302.110
+PEAB4,"66,19",PN,30/11/2021,CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA PN,"47,45",Holdings Diversificadas,"79,08",Holdings Diversificadas,8.886
+PEAB3,"79,50",ON,16/11/2021,CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA ON,"51,73",Holdings Diversificadas,"79,50",Holdings Diversificadas,3.897
+PDGR3,"1,46",ON NM,30/11/2021,PDG REALT ON NM,"1,46",Construção Civil,"8,16",Incorporações,8.778.420
+PLAS3,"11,00",ON,30/11/2021,PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A ON,"4,26",Automóveis e Motocicletas,"19,49",Automóveis e Motocicletas,4.240
+PATI3,"69,88",ON,29/11/2021,PANATLANTICA ON,"19,26",Siderurgia e Metalurgia,"86,00",Artefatos de Ferro e Aço,8.027
+PARD3,"19,33",ON NM,30/11/2021,IHPARDINI ON NM,"18,31",Serv.Méd.Hospit. Análises e Diagnósticos,"25,53",Serv.Méd.Hospit. Análises e Diagnósticos,8.632.130
+PALF5,"236,60",PNA,08/12/2005,CPFL PNA,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+PETR4,"29,43",PN,30/11/2021,PETROBRAS PN,"19,27","Petróleo, Gás e Biocombustíveis","29,68","Exploração, Refino e Distribuição",2.391.280.000
+PGMN3,"8,13",ON NM,30/11/2021,PAGUE MENOS ON NM,"8,10",Comércio e Distribuição,"13,65",Medicamentos e Outros Produtos,11.922.700
+PINE4,"1,75",PN,30/11/2021,Pine PN,"1,75",Intermediários Financeiros,"3,44",Bancos,467.500
+PETZ3,"18,21",ON NM,30/11/2021,PETZ ON NM,"17,42",Comércio,"28,35",Produtos Diversos,137.613.000
+PETR3,"30,14",ON,30/11/2021,PETROBRAS ON,"19,17","Petróleo, Gás e Biocombustíveis","30,50","Exploração, Refino e Distribuição",585.346.000
+PINE3,"0,00",ON N1,30/12/1899,Pine ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+PEFX5,"19,00",PNA,27/10/2008,PETROFLEX INDÚSTRIA E COMÉRCIO S.A PNA,"0,00",Químicos,"0,00",Petroquímicos,0
+ORVR3,"22,55",ON NM,30/11/2021,ORIZON ON NM,"19,70",Água e Saneamento,"30,54",Água e Saneamento,13.084.100
+PEFX3,"19,00",ON,28/10/2008,PETROFLEX INDÚSTRIA E COMÉRCIO S.A ON,"0,00",Químicos,"0,00",Petroquímicos,0
+OGXP3,"1,63",ON,10/01/2019,OGX ON,"1,46","Petróleo, Gás e Biocombustíveis","1,89","Exploração, Refino e Distribuição",0
+PALF3,"279,90",ON,04/01/2006,CPFL ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ODPV3,"12,59",ON NM,30/11/2021,ODONTOPREV ON NM,"11,76",Serv.Méd.Hospit. Análises e Diagnósticos,"16,46",Serv.Méd.Hospit. Análises e Diagnósticos,20.669.900
+ODER4,"190,00",PN,09/02/2021,CONSERVAS ODERICH SA PN,"41,52",Alimentos Processados,"190,00",Alimentos Diversos,0
+PDTC3,"4,85",ON,30/11/2021,PADTEC ON,"4,85",Serviços Financeiros Diversos,"9,99",Gestão de Recursos e Investimentos,1.382.660
+PCAR5,"67,12",PNA N1,31/03/2011,PÃO DE AÇÚCAR PNA N1,"0,00",Comércio e Distribuição,"0,00",Alimentos,0
+PATI4,"59,00",PN,30/11/2021,PANATLANTICA PN,"24,62",Siderurgia e Metalurgia,"91,61",Artefatos de Ferro e Aço,2.378
+PCAR3,"22,40",ON,30/11/2021,PÃO DE AÇÚCAR ON,"20,32",Comércio e Distribuição,"70,72",Alimentos,112.787.000
+PCAR4,"72,11",PN N1,28/02/2020,PÃO DE AÇÚCAR PN N1,"0,00",Comércio e Distribuição,"0,00",Alimentos,0
+PALF11,"125,00",PRC,01/04/2005,CPFL PRC,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+NINJ3,"3,81",ON NM,30/11/2021,GETNINJAS ON NM,"3,81",Programas e Serviços,"27,05",Programas e Serviços,2.153.050
+NEOE3,"17,38",ON NM,30/11/2021,NEOENERGIA ON NM,"14,61",Energia Elétrica,"18,85",Energia Elétrica,37.784.700
+OSXB3,"9,03",ON NM,30/11/2021,OSX BRASIL ON NM,"6,50","Petróleo, Gás e Biocombustíveis","25,44",Equipamentos e Serviços,267.541
+OIBR3,"0,88",ON N1,30/11/2021,OI ON N1,"0,88",Telecomunicações,"2,50",Telecomunicações,86.322.700
+OIBR4,"1,37",ON N1,30/11/2021,OI ON N1,"1,37",Telecomunicações,"3,64",Telecomunicações,1.632.200
+OFSA3,"25,01",ON NM,30/11/2021,OUROFINO S/A ON NM,"25,00",Medicamentos e Outros Produtos,"38,45",Medicamentos e Outros Produtos,537.043
+OPCT3,"2,76",ON NM,30/11/2021,OCEANPACT ON NM,"2,76","Petróleo, Gás e Biocombustíveis","11,15",Equipamentos e Serviços,3.649.090
+ONCO3,"7,76",ON NM,30/11/2021,ONCOCLINICAS ON NM,"7,76",Serv.Méd.Hospit. Análises e Diagnósticos,"19,24",Serv.Méd.Hospit. Análises e Diagnósticos,19.119.800
+OMGE3,"27,14",ON NM,30/11/2021,OMEGA GER ON NM,"27,14",Energia Elétrica,"43,36",Energia Elétrica,46.569.600
+OSAO4,"8,98",PN,02/02/2006,PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A PN,"0,00",Automóveis e Motocicletas,"0,00",Automóveis e Motocicletas,0
+MWET4,"14,02",PN,30/11/2021,WETZEL S.A. PN,"5,67",Material de Transporte,"40,39",Material Rodoviário,57.909
+MULT3,"19,60",ON N2,30/11/2021,Multiplan ON N2,"17,30",Exploração de Imóveis,"27,74",Exploração de Imóveis,168.682.000
+MTRE3,"6,92",ON NM,30/11/2021,MITRE REALTY ON NM,"5,71",Construção Civil,"16,06",Incorporações,5.569.220
+MTBR4,"1,05",PN,09/06/2006,WHIRLPOOL S.A. PN,"0,00",Utilidades Domésticas,"0,00",Eletrodomésticos,0
+NUTR3,"253,00",ON,03/09/2021,NUTRIPLANT ON,"216,00",Químicos,"395,00",Fertilizantes e Defensivos,0
+ODER3,"0,00",ON,-,CONSERVAS ODERICH SA ON,"0,00",Alimentos Processados,"0,00",Alimentos Diversos,0
+NORD3,"13,96",ON,29/11/2021,NORDON INDS METALURGICAS SA ON,"6,20",Máquinas e Equipamentos,"31,59",Máq. e Equip. Industriais,10.011
+NTCO3,"26,69",ON NM,30/11/2021,GRUPO NATURA ON NM,"26,69",Produtos de Uso Pessoal e de Limpeza,"61,05",Produtos de Uso Pessoal,402.775.000
+MYPK4,"31,79",PN,25/02/2008,IOCHPE-MAXION PN,"0,00",Automóveis e Motocicletas,"0,00",Automóveis e Motocicletas,0
+MYPK3,"14,44",ON,30/11/2021,IOCHPE-MAXION ON,"11,70",Automóveis e Motocicletas,"19,51",Automóveis e Motocicletas,31.988.500
+NGRD3,"2,82",ON NM,30/11/2021,NEOGRID ON NM,"2,82",Programas e Serviços,"11,71",Programas e Serviços,8.702.110
+MRSA5B,"40,29",PNA MB,21/10/2021,MRS LOGÍSTICA S/A PNA MB,"32,68",Transporte,"45,43",Transporte Ferroviário,101
+MRSA3B,"35,70",ON MB,22/11/2021,MRS LOGÍSTICA S/A ON MB,"35,70",Transporte,"52,73",Transporte Ferroviário,179
+MRFG3,"23,57",ON NM,30/11/2021,Marfrig ON NM,"11,89",Alimentos Processados,"27,70",Carnes e Derivados,184.570.000
+MOSI3,"8,75",ON NM,30/11/2021,MOSAICO SA ON NM,"8,45",Programas e Serviços,"41,03",Programas e Serviços,18.726.900
+MWET3,"26,05",ON,08/11/2021,WETZEL S.A. ON,"26,05",Material de Transporte,"69,78",Material Rodoviário,850
+MODL11,"10,65",UNT N2,30/11/2021,MODALMAIS UNT N2,"10,65",Intermediários Financeiros,"18,83",Bancos,6.674.880
+MSPA4,"46,00",PN,19/10/2021,MELHORAMENTOS PN,"45,00",Madeira e Papel,"46,00",Papel e Celulose,115
+MTIG3,"5,21",ON,01/04/2016,IGUAÇU ON,"0,00",Embalagens,"0,00",Embalagens,0
+MTSA4,"42,88",PN,30/11/2021,METISA PN,"27,07",Máquinas e Equipamentos,"54,36",Máq. e Equip. Construção e Agrícolas,147.119
+MTIG4,"47,42",PN,30/11/2021,IGUAÇU PN,"32,00",Embalagens,"89,80",Embalagens,27.456
+MSPA3,"48,50",ON,19/10/2021,MELHORAMENTOS ON,"48,00",Madeira e Papel,"48,50",Papel e Celulose,121
+MTBR3,"0,99",ON,28/03/2006,WHIRLPOOL S.A. ON,"0,00",Utilidades Domésticas,"0,00",Eletrodomésticos,0
+MRVE3,"11,09",ON NM,30/11/2021,MRV ON NM,"10,15",Construção Civil,"20,17",Incorporações,66.738.000
+MNPR3,"7,40",ON,30/11/2021,MINUPAR ON,"6,17",Alimentos Processados,"25,00",Carnes e Derivados,125.445
+MMXM3,"14,00",ON NM,19/05/2021,MMX MINER ON NM,"14,00",Mineração,"37,20",Minerais Metálicos,0
+MMAQ3,"0,00",ON,30/12/1899,MINASMÁQUINAS S/A ON,"0,00",Comércio,"0,00",Material de Transporte,0
+MLPA4,"45,00",PN,11/04/2008,MELHORAMENTOS PAPEIS PN,"0,00",Madeira e Papel,"0,00",Papel e Celulose,0
+MRSL4,"3,05",PN,02/07/2012,MARISOL PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Vestuário,0
+MRSL3,"3,30",ON,07/12/2011,MARISOL ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Vestuário,0
+MLAS3,"6,66",ON NM,30/11/2021,MULTILASER ON NM,"6,36",Computadores e Equipamentos,"12,98",Computadores e Equipamentos,20.703.400
+MRSA6B,"35,00",PNB MB,03/08/2021,MRS LOGÍSTICA S/A PNB MB,"35,00",Transporte,"35,00",Transporte Ferroviário,0
+MODL3,"4,17",ON N2,30/11/2021,MODALMAIS ON N2,"4,17",Intermediários Financeiros,"12,45",Bancos,75.712
+MOVI3 ,"16,78",ON NM,30/11/2021,MOVIDA ON NM,"14,85",Diversos,"22,77",Aluguel de carros,41.076.200
+MOAR3,"419,00",ON,30/11/2021,MONTEIRO ARANHA ON,"188,41",Holdings Diversificadas,"419,00",Holdings Diversificadas,1.320.400
+MODL4,"3,25",PN N2,30/11/2021,MODALMAIS PN N2,"3,25",Intermediários Financeiros,"6,51",Bancos,139.406
+MGEL4,"14,00",PN N1,30/11/2021,MANGELS PN N1,"5,31",Siderurgia e Metalurgia,"26,21",Artefatos de Ferro e Aço,50.566
+MNPR4,"4,63",PN,11/12/2007,MINUPAR PN,"0,00",Alimentos Processados,"0,00",Carnes e Derivados,0
+MNDL4,"0,38",PN,01/03/2012,MUNDIAL S/A PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Acessórios,0
+MNDL3,"44,80",ON,30/11/2021,MUNDIAL S/A ON,"20,53","Tecidos, Vestuário e Calçados","68,96",Acessórios,105.360
+MMAQ4,"200,06",PN,10/12/2003,MINASMÁQUINAS S/A PN,"0,00",Comércio,"0,00",Material de Transporte,0
+MLPA3,"0,00",ON,30/12/1899,MELHORAMENTOS PAPEIS ON,"0,00",Madeira e Papel,"0,00",Papel e Celulose,0
+MLFT4,"22,39",PN,31/01/2018,IGUATEMI S.A PN,"22,39",Exploração de Imóveis,"22,85",Exploração de Imóveis,0
+MILS3,"5,49",ON NM,30/11/2021,MILLS ON NM,"4,82",Construção e Engenharia,"8,97",Serviços Diversos,8.597.850
+MAPT4,"37,95",PN,24/09/2021,CIA MARCOPOLO PN,"36,80",Outros,"53,99",Outros,0
+MGLU3,"7,80",ON NM,30/11/2021,MAGAZ LUIZA ON NM,"7,80",Comércio,"26,22",Eletrodomésticos,685.981.000
+MGEL3,"25,00",ON,11/03/2011,MANGELS ON,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+LUXM3,"10,00",ON,25/05/2015,TREVISA INVESTIMENTOS SA ON,"0,00",Transporte,"0,00",Transporte Hidroviário,0
+LUPA3,"5,18",ON NM,30/11/2021,LUPATECH ON NM,"2,01","Petróleo, Gás e Biocombustíveis","11,30",Equipamentos e Serviços,22.644.200
+LREN4,"105,00",PN,28/06/2005,RENNER PN,"0,00",Comércio,"0,00","Tecidos, Vestuário e Calçados",0
+MERC4,"10,01",PN,29/11/2021,MERCANTIL BRASIL PN,"10,01",Intermediários Financeiros,"13,64",Soc. Crédito e Financiamento,647
+MERC3,"25,00",ON,11/11/2021,MERCANTIL BRASIL ON,"21,40",Intermediários Financeiros,"44,94",Soc. Crédito e Financiamento,63
+MELK3,"3,97",ON NM,30/11/2021,MELNICK ON NM,"3,34",Construção Civil,"7,76",Incorporações,6.894.960
+MEAL3,"2,68",ON NM,30/11/2021,IMC S/A ON NM,"2,68",Hoteis e Restaurantes,"4,93",Restaurante e Similares,9.279.180
+MEDI3,"11,55",ON NM,10/06/2010,MEDIAL SAUDE ON NM,"0,00",Serv.Méd.Hospit. Análises e Diagnósticos,"0,00",Serv.Méd.Hospit. Análises e Diagnósticos,0
+LLIS3,"1,27",ON,30/11/2021,LE LIS BLANC DEUX ON,"1,27",Comércio,"5,05","Tecidos, Vestuário e Calçados",1.440.580
+MDNE3,"4,69",ON NM,30/11/2021,MOURA DUBEUX ON NM,"4,69",Construção Civil,"11,77",Incorporações,2.126.650
+MDIA3,"27,78",ON NM,30/11/2021,M.DIASBRANCO ON NM,"25,68",Alimentos Processados,"34,57",Alimentos Diversos,41.486.600
+LINX3,"37,40",ON NM,25/06/2021,LINX ON NM,"35,53",Programas e Serviços,"38,39",Programas e Serviços,0
+LIGH3,"16,66",ON,21/02/2006,LIGHT ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+MBLY3,"4,80",ON NM,30/11/2021,MOBLY ON NM,"4,80",Programas e Serviços,"26,40",Programas e Serviços,5.935.170
+MATD3,"14,44",ON NM,30/11/2021,MATER DEI ON NM,"14,44",Serv.Méd.Hospit. Análises e Diagnósticos,"21,55",Serv.Méd.Hospit. Análises e Diagnósticos,9.879.210
+MAPT3,"37,00",ON,22/04/2021,CIA MARCOPOLO ON,"37,00",Outros,"50,01",Outros,0
+MARI3,"2,93",ON NM,30/12/1899,Marisa ON NM,"0,00",Comércio,"0,00","Tecidos, Vestuário e Calçados",0
+LVTC3,"15,75",ON NM,30/11/2021,WDC NETWORKS ON NM,"15,75",Programas e Serviços,"26,73",Programas e Serviços,5.280.080
+LWSA3,"13,19",ON NM,30/11/2021,LOCAWEB ON NM,"13,19",Programas e Serviços,"34,99",Programas e Serviços,161.094.000
+LPSB3,"2,32",ON NM,30/11/2021,LOPES BRASIL ON NM,"2,29",Exploração de Imóveis,"5,29",Intermediação Imobiliária,3.492.710
+LOGN3,"20,65",ON NM,30/11/2021,Log-In ON NM,"13,82",Transporte,"22,70",Transporte Hidroviário,17.600.400
+LREN3,"28,45",ON,30/11/2021,RENNER ON,"28,45",Comércio,"44,14","Tecidos, Vestuário e Calçados",374.417.000
+LUXM4,"81,05",PN,30/11/2021,TREVISA INVESTIMENTOS SA PN,"58,38",Transporte,"81,05",Transporte Hidroviário,24.554
+LOGG3,"22,01",ON NM,30/11/2021,LOG COM PROP ON NM,"22,01",Exploração de Imóveis,"34,43",Exploração de Imóveis,14.290.300
+LJQQ3,"10,13",ON NM,30/11/2021,QUERO-QUERO ON NM,"10,13",Comércio,"24,87",Produtos Diversos,34.402.100
+LIPR3,"55,00",ON,30/11/2021,LIGHTPAR ON,"55,00",Energia Elétrica,"74,69",Energia Elétrica,6.866
+LEVE4,"44,49",PN,07/01/2011,MAHLE METAL LEVE PN,"0,00",Automóveis e Motocicletas,"0,00",Automóveis e Motocicletas,0
+LIGT3,"12,04",ON,30/11/2021,LIGHT SA ON,"9,68",Energia Elétrica,"23,90",Energia Elétrica,34.955.000
+LEVE3,"29,29",ON,30/11/2021,MAHLE METAL LEVE ON,"16,84",Automóveis e Motocicletas,"43,26",Automóveis e Motocicletas,23.918.500
+KROT11,"40,00",UNT N2,04/12/2012,COGNA UNT N2,"0,00",Diversos,"0,00",Serviços Educacionais,0
+KLBN4,"4,44",PN N2,30/11/2021,KLABIN PN N2,"4,13",Madeira e Papel,"6,05",Papel e Celulose,3.100.500
+KLBN3,"5,97",ON N2,30/11/2021,KLABIN ON N2,"4,76",Madeira e Papel,"6,56",Papel e Celulose,778.937
+LCAM3,"23,17",ON NM,30/11/2021,LOCAMERICA ON NM,"19,73",Diversos,"30,35",Aluguel de carros,64.503.100
+LETO5,"2,06",PNA,26/06/2008,MITTO PNA,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+LETO3,"0,80",ON,19/07/2006,MITTO ON,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+JOPA4,"37,00",PN,06/10/2021,JOSAPAR S/A PN,"31,65",Alimentos Processados,"73,93",Alimentos Diversos,93
+JHSF3,"4,70",ON NM,30/11/2021,JHSF Part ON NM,"4,70",Construção Civil,"7,87",Incorporações,25.230.700
+LAND3,"0,00",ON NM,-,TERRASANTAPA ON NM,"0,00",Agropecuária,"0,00",Agricultura,0
+LATM11,"28,65",DR3 ED,30/08/2013,LATAM AIRLN DR3 ED,"0,00",Transporte,"0,00",Transporte Aéreo,0
+LAVV3,"4,63",ON NM,30/11/2021,LAVVI ON NM,"4,63",Construção Civil,"8,67",Incorporações,10.064.400
+JBSS3,"35,65",ON NM,30/11/2021,JBS ON NM,"20,39",Alimentos Processados,"38,02",Carnes e Derivados,440.501.000
+JBDU3,"0,00",ON,-,B TECH EQI ON,"0,00",Outros,"0,00",Outros,0
+LAME4,"5,47",PN,30/11/2021,LOJAS AMERICANAS S.A. PN,"4,64",Comércio,"11,99",Produtos Diversos,187.033.000
+KRSA3,"5,03",ON NM,30/11/2021,KORA SAUDE ON NM,"5,03",Serv.Méd.Hospit. Análises e Diagnósticos,"8,15",Serv.Méd.Hospit. Análises e Diagnósticos,1.379.940
+KROT4,"5,12",PN N2,30/11/2012,COGNA PN N2,"0,00",Diversos,"0,00",Serviços Educacionais,0
+LAME3,"5,44",ON,30/11/2021,LOJAS AMERICANAS S.A. ON,"4,37",Comércio,"10,68",Produtos Diversos,39.324.600
+KSSA3,"5,33",ON NM,11/02/2010,KLABINSEGALL ON NM,"0,00",Construção Civil,"0,00",Incorporações,0
+IRBR3,"4,31",ON NM,30/11/2021,IRBBRASIL RE ON NM,"4,00",Previdência e Seguros,"8,21",Seguradoras,69.822.300
+KEPL3,"31,23",ON,30/11/2021,KEPLER WEBER SA ON,"27,87",Máquinas e Equipamentos,"45,94",Máq. e Equip. Industriais,10.021.000
+KLBN11,"23,87",UNT N2,30/11/2021,KLABIN UNT N2,"22,02",Madeira e Papel,"30,70",Papel e Celulose,147.575.000
+IMCH3,"6,39",ON NM,30/03/2015,IMC HOLDINGS ON NM,"0,00",Hoteis e Restaurantes,"0,00",Restaurante e Similares,0
+IMBI4,"3,50",PN,22/11/2016,COMPANHIA DOCAS DE IMBITUBA PN,"0,00",Transporte,"0,00",Serviços de Apoio e Armazenagem,0
+JOPA3,"28,50",ON,30/11/2021,JOSAPAR S/A ON,"28,00",Alimentos Processados,"38,98",Alimentos Diversos,9.175
+JFEN3,"1,08",ON,30/11/2021,JOÃO FORTES ENGENHARIA S.A. ON,"1,08",Construção Civil,"6,50",Incorporações,637.663
+JPSA3,"29,02",ON,19/11/2021,IGUATEMI S.A ON,"21,43",Exploração de Imóveis,"36,68",Exploração de Imóveis,7.666.510
+JSLG3,"7,22",ON NM,30/11/2021,JULIO SIMOES ON NM,"6,62",Transporte,"12,61",Transporte Rodoviário,6.049.840
+JALL3,"9,04",ON NM,30/11/2021,JALLESMACHAD ON NM,"7,30",Alimentos Processados,"10,65",Açucar e Alcool,7.408.340
+ITUB3,"20,10",ON N1,30/11/2021,ITAUUNIBANCO ON N1,"18,03",Intermediários Financeiros,"23,48",Bancos,33.132.900
+IVTT3,"0,00",ON NM,-,BHG ON NM,"0,00",Exploração de Imóveis,"0,00",Exploração de Imóveis,0
+ITUB4,"22,38",PN N1,30/11/2021,ITAUUNIBANCO PN N1,"20,02",Intermediários Financeiros,"27,05",Bancos,1.041.110.000
+IGTI11,"190,00",UNT N1,30/11/2021,IGUATEMI S.A UNT N1,"190,00",Exploração de Imóveis,"211,50",Exploração de Imóveis,8.018.770
+ITSA4,"9,67",PN N1,30/11/2021,ITAÚSA PN N1,"9,38",Intermediários Financeiros,"11,84",Bancos,331.570.000
+ITSA3,"9,71",ON N1,30/11/2021,ITAÚSA ON N1,"9,71",Intermediários Financeiros,"12,47",Bancos,2.647.500
+INHA3,"0,00",ON,30/12/1899,GAFISA ON,"0,00",Construção Civil,"0,00",Incorporações,0
+ITEC3,"40,10",ON,28/05/2019,ITAUTEC PHILCO SA - GRUPO ITAUTEC PHILCO ON,"40,10",Computadores e Equipamentos,"57,39",Computadores e Equipamentos,0
+INTB3,"26,54",ON NM,30/11/2021,INTELBRAS ON NM,"16,91",Computadores e Equipamentos,"33,12",Computadores e Equipamentos,49.361.800
+IMBI3,"5,01",ON,22/11/2016,COMPANHIA DOCAS DE IMBITUBA ON,"0,00",Transporte,"0,00",Serviços de Apoio e Armazenagem,0
+INEP3,"1,51",ON,30/11/2021,INEPAR S/A ON,"0,40",Máquinas e Equipamentos,"3,79",Máq. e Equip. Industriais,2.270.750
+INEP4,"1,50",PN,30/11/2021,INEPAR S/A PN,"0,41",Máquinas e Equipamentos,"3,88",Máq. e Equip. Industriais,2.473.220
+IENG3,"0,15",ON,24/02/2012,INEPAR ENERGIA ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+IDVL11,"140,00",UNT N1,23/07/2007,Indusval UNT N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+ILMD4,"30,00",PN,18/11/2011,YARA BRASIL FERTILIZANTES S.A. PN,"0,00",Químicos,"0,00",Fertilizantes e Defensivos,0
+ILMD3,"29,00",ON,04/11/2011,YARA BRASIL FERTILIZANTES S.A. ON,"0,00",Químicos,"0,00",Fertilizantes e Defensivos,0
+IGTA3,"33,13",ON NM,19/11/2021,IGUATEMI ON NM,"28,62",Exploração de Imóveis,"46,40",Exploração de Imóveis,63.455.800
+IGTI3,"27,85",ON N1,30/11/2021,IGUATEMI S.A ON N1,"21,43",Exploração de Imóveis,"36,68",Exploração de Imóveis,7.834.670
+HBTS5,"49,50",PNA,30/11/2021,CIA HABITASUL PNA,"21,37",Exploração de Imóveis,"81,65",Exploração de Imóveis,16.173
+IGBR6,"19,00",PNB,26/04/2007,GRADIENTE PNB,"0,00",Exploração de Imóveis,"0,00",Exploração de Imóveis,0
+IGBR5,"18,90",PNA,12/02/2007,GRADIENTE PNA,"0,00",Exploração de Imóveis,"0,00",Exploração de Imóveis,0
+IGBR3,"38,00",ON,30/11/2021,GRADIENTE ON,"25,00",Exploração de Imóveis,"182,99",Exploração de Imóveis,2.048.570
+IFCM3,"14,43",ON NM,30/11/2021,INFRACOMM ON NM,"13,05",Programas e Serviços,"23,78",Programas e Serviços,14.835.900
+HBOR3,"4,30",ON,30/11/2021,Helbor ON,"4,30",Construção Civil,"12,46",Incorporações,8.334.700
+HAGA4,"1,84",ON,30/11/2021,HAGA ON,"1,76",Construção e Engenharia,"3,85",Produtos para Construção,126.346
+IENG5,"0,12",PNA,24/02/2012,INEPAR ENERGIA PNA,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+IDVL4,"2,67",PN N1,30/12/2020,Indusval PN N1,"2,20",Intermediários Financeiros,"3,03",Bancos,0
+IDVL3,"2,16",ON N1,30/12/2020,Indusval ON N1,"1,86",Intermediários Financeiros,"2,95",Bancos,0
+GRND3,"8,38",ON,30/11/2021,GRENDENE SA ON,"6,44","Tecidos, Vestuário e Calçados","12,28",Calçados,21.283.700
+HYPE3,"27,12",ON,30/11/2021,HYPERA ON,"27,12",Comércio e Distribuição,"36,70",Medicamentos e Outros Produtos,103.463.000
+GPAR3,"43,00",ON,17/11/2021,CELGPAR ON,"26,80",Energia Elétrica,"114,13",Energia Elétrica,4.873
+GOLL4,"16,00",PN,30/11/2021,GOL LINHAS AEREAS INTELIGENTES SA PN,"15,08",Transporte,"27,97",Transporte Aéreo,120.994.000
+GOAU4,"10,65",PN N1,30/11/2021,METALÚRGICA GERDAU PN N1,"8,39",Siderurgia e Metalurgia,"13,70",Siderurgia,148.346.000
+GOAU3,"9,56",ON N1,30/11/2021,METALÚRGICA GERDAU ON N1,"7,18",Siderurgia e Metalurgia,"12,87",Siderurgia,1.960.290
+HOOT4,"2,92",PN,30/11/2021,HOTEIS OTHON S.A. PN,"2,55",Hoteis e Restaurantes,"5,50",Hotelaria,422.208
+HGTX4,"9,60",PN N1,15/05/2007,CIA HERING PN N1,"0,00","Tecidos, Vestuário e Calçados","0,00",Vestuário,0
+GLOB4,"30,49",PN,18/02/2008,VIA PN,"0,00",Comércio,"0,00",Eletrodomésticos,0
+HBRE3,"9,80",ON NM,30/11/2021,HBR REALTY ON NM,"9,12",Exploração de Imóveis,"18,90",Exploração de Imóveis,187.804
+HGTX3,"37,50",ON N1,17/09/2021,CIA HERING ON N1,"14,34","Tecidos, Vestuário e Calçados","40,57",Vestuário,0
+HETA4,"14,00",PN,30/11/2021,HERCULES S/A PN,"7,50",Utilidades Domésticas,"17,44",Utensílios Domésticos,90.908
+HETA3,"96,00",ON,14/09/2021,HERCULES S/A ON,"28,07",Utilidades Domésticas,"180,00",Utensílios Domésticos,0
+HBSA3,"2,71",ON NM,30/11/2021,HIDROVIAS ON NM,"2,71",Transporte,"7,63",Transporte Hidroviário,15.510.900
+GGBR3,"21,04",ON N1,30/11/2021,GERDAU S.A. ON N1,"16,39",Siderurgia e Metalurgia,"27,19",Siderurgia,1.990.370
+GETT4,"1,70",PN,30/11/2021,GETNET BR PN,"1,57",Serviços Financeiros Diversos,"5,49",Serviços Financeiros Diversos,3.045.710
+GETI4,"14,46",PN,30/12/2015,AES TIETE SA PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+GETI3,"14,45",ON,30/12/2015,AES TIETE SA ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+GEPA3,"32,00",ON,30/11/2021,"DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA ON","31,50",Energia Elétrica,"42,61",Energia Elétrica,3.533
+GBIO33,"10,40",DR3,27/08/2020,BIOTOSCANA DR3,"9,87",Medicamentos e Outros Produtos,"10,40",Medicamentos e Outros Produtos,0
+HAPV3,"10,91",ON NM,30/11/2021,HAPVIDA ON NM,"10,91",Serv.Méd.Hospit. Análises e Diagnósticos,"18,17",Serv.Méd.Hospit. Análises e Diagnósticos,248.478.000
+HAGA3,"3,83",ON,30/11/2021,HAGA ON,"2,85",Construção e Engenharia,"4,62",Produtos para Construção,80.412
+GMAT3,"5,86",ON NM,30/11/2021,GRUPO MATEUS ON NM,"5,86",Comércio e Distribuição,"9,00",Alimentos,38.966.100
+GUAR3,"10,20",ON,30/11/2021,GUARARAPES CONFECÇÕES ON,"10,20",Comércio,"22,83","Tecidos, Vestuário e Calçados",10.723.400
+GUAR4,"151,00",PN,06/02/2019,GUARARAPES CONFECÇÕES PN,"0,00",Comércio,"0,00","Tecidos, Vestuário e Calçados",0
+GNDI3,"61,46",ON NM,30/11/2021,INTERMEDICA ON NM,"61,46",Serv.Méd.Hospit. Análises e Diagnósticos,"101,10",Serv.Méd.Hospit. Análises e Diagnósticos,280.880.000
+GSHP3,"36,00",ON NM,29/11/2021,Generalshopp ON NM,"35,40",Exploração de Imóveis,"61,93",Exploração de Imóveis,26.433
+FTRX3,"0,13",ON,10/07/2013,FAB TECIDOS C RENAUX ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+FRAS3,"12,54",ON,30/11/2021,FRAS-LE S.A. ON,"7,82",Material de Transporte,"17,30",Material Rodoviário,2.254.310
+GGPS3,"14,51",ON NM,30/11/2021,GPS ON NM,"11,91",Serviços Diversos,"19,76",Serviços Diversos,22.205.400
+GGBR4,"25,80",PN N1,30/11/2021,GERDAU S.A. PN N1,"19,96",Siderurgia e Metalurgia,"33,77",Siderurgia,368.340.000
+GFSA3,"2,04",ON,30/11/2021,GAFISA ON,"2,00",Construção Civil,"5,91",Incorporações,22.531.700
+GEPA4,"31,53",PN,30/11/2021,"DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA PN","31,53",Energia Elétrica,"41,53",Energia Elétrica,68.471
+FIGE4,"38,01",PN,01/03/2016,INVESTIMENTOS BEMGE PN,"0,00",Outros,"0,00",Outros,0
+GETT3,"2,00",ON,30/11/2021,GETNET BR ON,"1,76",Serviços Financeiros Diversos,"7,05",Serviços Financeiros Diversos,4.050.000
+GAFP4,"0,05",PN,08/12/2004,CIMOB PN,"0,00",Construção Civil,"0,00",Incorporações,0
+FGUI4,"0,38",PN,28/07/2009,FERREIRA GUIMARAES PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+FGUI3,"12,00",ON,31/07/2008,FERREIRA GUIMARAES ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+FFTL3,"25,00",ON,21/12/2011,FOSFERTIL ON,"0,00",Químicos,"0,00",Fertilizantes e Defensivos,0
+GAFP3,"0,12",ON,08/12/2004,CIMOB ON,"0,00",Construção Civil,"0,00",Incorporações,0
+FTRX4,"0,11",PN,08/07/2013,FAB TECIDOS C RENAUX PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+FRTA3,"5,55",ON NM,30/11/2021,POMIFRUTAS ON NM,"4,99",Agropecuária,"10,75",Agricultura,32.349
+FBMC4,"1,96",PN,18/01/2019,FIBAM PN,"1,96",Siderurgia e Metalurgia,"2,70",Artefatos de Ferro e Aço,0
+FBMC3,"80,00",ON,06/11/2012,FIBAM ON,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+FRIO3,"50,59",ON NM,29/11/2021,Metalfrio ON NM,"41,00",Máquinas e Equipamentos,"94,12",Máq. e Equip. Industriais,2.303
+FLRY3,"17,47",ON NM,30/11/2021,FLEURY ON NM,"17,47",Serv.Méd.Hospit. Análises e Diagnósticos,"28,01",Serv.Méd.Hospit. Análises e Diagnósticos,46.642.800
+FRAS4,"5,79",PN,06/01/2014,FRAS-LE S.A. PN,"0,00",Material de Transporte,"0,00",Material Rodoviário,0
+EUCA4,"8,36",PN,30/11/2021,EUCATEX PN,"6,77",Madeira e Papel,"11,99",Madeira,903.996
+EUCA3,"13,00",ON,30/11/2021,EUCATEX ON,"12,93",Madeira e Papel,"26,06",Madeira,119.993
+ETER3,"14,75",ON,30/11/2021,ETERNIT ON,"10,18",Construção e Engenharia,"33,83",Produtos para Construção,20.844.200
+ESTC4,"0,00",PN N2,30/12/1899,YDUQS PART PN N2,"0,00",Diversos,"0,00",Serviços Educacionais,0
+FIGE3,"43,00",ON,01/03/2016,INVESTIMENTOS BEMGE ON,"0,00",Outros,"0,00",Outros,0
+FIQE3,"6,13",ON NM,30/11/2021,UNIFIQUE ON NM,"5,63",Telecomunicações,"8,99",Telecomunicações,4.597.430
+FIBR3,"66,30",ON N1,03/01/2019,Fibria ON N1,"66,09",Madeira e Papel,"68,74",Papel e Celulose,0
+EQTL3,"22,57",ON NM,30/11/2021,EQUATORIAL ENERGIA S.A. ON NM,"19,30",Energia Elétrica,"26,31",Energia Elétrica,179.450.000
+FFTL4,"25,06",PN,23/12/2011,FOSFERTIL PN,"0,00",Químicos,"0,00",Fertilizantes e Defensivos,0
+FHER3,"18,82",ON NM,30/11/2021,Fer Heringer ON NM,"2,87",Químicos,"46,77",Fertilizantes e Defensivos,53.018.700
+FESA3,"50,00",ON,30/11/2021,FERBASA ON,"26,27",Siderurgia e Metalurgia,"60,33",Siderurgia,19.303
+FESA4,"43,46",PN,30/11/2021,FERBASA PN,"17,61",Siderurgia e Metalurgia,"59,10",Siderurgia,27.055.200
+EQMA5B,"0,00",PNA MB,-,CEMAR PNA MB,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+EQMA3B,"41,75",ON MB,30/11/2021,CEMAR ON MB,"37,87",Energia Elétrica,"44,20",Energia Elétrica,129.100
+EPAR4,"3,30",PN,10/12/2018,EMBPAR S/A PN,"0,00",Comércio,"0,00",Material de Transporte,0
+EPAR3,"15,00",ON,30/11/2021,EMBPAR S/A ON,"9,01",Comércio,"22,32",Material de Transporte,49.016
+EVEN3,"6,15",ON NM,30/11/2021,Even ON NM,"6,03",Construção Civil,"12,32",Incorporações,13.066.700
+EZTC3,"18,14",ON NM,30/11/2021,EZTec ON NM,"18,12",Construção Civil,"44,99",Incorporações,55.721.000
+ENMT3,"79,79",ON,30/11/2021,ENERGISA MT ON,"24,87",Energia Elétrica,"79,99",Energia Elétrica,101.392
+ENJU3,"2,89",ON NM,30/11/2021,ENJOEI ON NM,"2,89",Programas e Serviços,"20,90",Programas e Serviços,10.385.500
+ENGI3,"16,40",ON,30/11/2021,ENERGISA ON,"13,20",Energia Elétrica,"19,02",Energia Elétrica,147.006
+ETER4,"9,85",PN,01/08/2006,ETERNIT PN,"0,00",Construção e Engenharia,"0,00",Produtos para Construção,0
+ESTR4,"67,18",PN,22/10/2021,ESTRELA PN,"25,67",Viagens e Lazer,"80,80",Brinquedos e Jogos,1.633
+ESTR3,"40,00",ON,12/07/2021,ESTRELA ON,"40,00",Viagens e Lazer,"40,00",Brinquedos e Jogos,0
+ESTC11,"23,50",UNT N2,10/07/2008,YDUQS PART UNT N2,"0,00",Diversos,"0,00",Serviços Educacionais,0
+ENER3,"10,50",ON,06/05/2005,ENERSUL ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ENBR3,"21,40",ON,30/11/2021,EDP ENERGIAS DO BRASIL S/A ON,"16,94",Energia Elétrica,"21,40",Energia Elétrica,74.837.600
+EMBR3,"19,14",ON,30/11/2021,EMBRAER ON,"8,22",Material de Transporte,"26,05",Material Aeronáutico e de Defesa,220.314.000
+EQPA7,"7,00",PNC,01/11/2021,EQTL PARA PNC,"4,58",Energia Elétrica,"9,60",Energia Elétrica,539
+ESPA3,"8,15",ON NM,30/11/2021,ESPACOLASER ON NM,"8,15",Comércio,"21,50",Produtos Diversos,26.683.100
+ESCE3,"172,00",ON,12/07/2005,ESCELSA ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ELPL6,"30,20",PNB,20/12/2010,AES ELETROPAULO PNB,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+EQPA6,"10,68",PNB,11/08/2020,EQTL PARA PNB,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+EQPA5,"7,08",PNA,25/11/2021,EQTL PARA PNA,"4,70",Energia Elétrica,"9,58",Energia Elétrica,9.072
+EQPA3,"5,00",ON,30/11/2021,EQTL PARA ON,"2,69",Energia Elétrica,"5,82",Energia Elétrica,40.088
+ENMT4,"80,30",ON,29/11/2021,ENERGISA MT ON,"28,46",Energia Elétrica,"80,40",Energia Elétrica,22.509
+EQMA6B,"0,00",PNB MB,-,CEMAR PNB MB,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ENGI4,"7,26",PN,30/11/2021,ENERGISA PN,"6,34",Energia Elétrica,"8,28",Energia Elétrica,187.935
+ENEV3,"13,95",ON,30/11/2021,ENEVA ON,"13,75",Energia Elétrica,"18,61",Energia Elétrica,92.845.300
+ENGI11,"45,49",UNT N2,30/11/2021,ENERGISA UNT N2,"39,28",Energia Elétrica,"50,34",Energia Elétrica,95.177.200
+ELET3,"32,63",ON,30/11/2021,ELETROBRÁS ON,"25,39",Energia Elétrica,"47,57",Energia Elétrica,184.484.000
+ENER6,"12,00",PNB,18/05/2005,ENERSUL PNB,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ENER5,"6,00",PNA,29/01/2004,ENERSUL PNA,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+EKTR4,"26,70",PN,26/11/2021,ELEKTRO ELETRICIDADE E SERVIÇOS S.A. PN,"20,46",Energia Elétrica,"31,30",Energia Elétrica,16.802
+EMAE4,"59,99",PN,30/11/2021,EMAE PN,"35,23",Energia Elétrica,"97,11",Energia Elétrica,281.253
+ENAT3,"13,32",ON,30/11/2021,ENAUTA PART ON,"10,08","Petróleo, Gás e Biocombustíveis","18,71","Exploração, Refino e Distribuição",21.772.200
+EGIE3,"38,53",ON,30/11/2021, ENGIE BRASIL ON,"36,16",Energia Elétrica,"43,90",Energia Elétrica,56.535.900
+EEEL3,"375,00",ON N1,26/11/2021,CEEE ON N1,"236,29",Energia Elétrica,"375,00",Energia Elétrica,5.094
+ECPR4,"85,80",PN,23/06/2021,ENCORPAR PN,"66,98","Tecidos, Vestuário e Calçados","85,80",Fios e Tecidos,0
+ECPR3,"79,89",ON,28/09/2021,ENCORPAR ON,"79,89","Tecidos, Vestuário e Calçados","89,00",Fios e Tecidos,0
+ECOR3,"8,30",ON NM,30/11/2021,ECORODOVIAS ON NM,"8,19",Transporte,"13,55",Exploração de Rodovias,62.817.900
+ELPL5,"30,50",PNA,20/12/2010,AES ELETROPAULO PNA,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ELPL4,"15,98",PN,24/11/2017,AES ELETROPAULO PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ELPL3,"49,32",ON,26/11/2019,AES ELETROPAULO ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+EALT4,"5,60",PN,30/11/2021,ELECTRO AÇO ALTONA S/A PN,"4,50",Máquinas e Equipamentos,"8,31",Máq. e Equip. Industriais,142.160
+ELEV3,"24,30",ON,19/02/2008, ELEVA ON,"0,00",Alimentos Processados,"0,00",Carnes e Derivados,0
+ELET6,"32,05",PNB,30/11/2021,ELETROBRÁS PNB,"26,36",Energia Elétrica,"47,42",Energia Elétrica,87.123.900
+ELET5,"65,00",PNA,24/11/2021,ELETROBRÁS PNA,"37,29",Energia Elétrica,"80,50",Energia Elétrica,488
+ELMD3,"10,47",ON NM,30/11/2021,ELETROMIDIA ON NM,"10,47",Mídia,"22,79",Publicidade e Propaganda,3.298.700
+DXCO3,"18,03",ON,30/11/2021,DEXCO ON,"15,51",Madeira e Papel,"23,80",Madeira,50.855.100
+ELEK4,"26,00",PN,29/06/2020,ELEKEIROZ S/A PN,"16,99",Químicos,"38,94",Petroquímicos,0
+DUQE3,"28,00",ON,11/07/2011,METALURGICA DUQUE SA ON,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+ELCA4,"20,20",PN,20/06/2006,REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ELEK3,"19,11",ON,01/07/2020,ELEKEIROZ S/A ON,"15,51",Químicos,"25,50",Petroquímicos,0
+ELCA3,"24,70",ON,20/06/2006,REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+DSUL3,"7,95",ON NM,23/09/2008,DATASUL ON NM,"0,00",Programas e Serviços,"0,00",Programas e Serviços,0
+EKTR3,"36,08",ON,09/11/2021,ELEKTRO ELETRICIDADE E SERVIÇOS S.A. ON,"21,36",Energia Elétrica,"45,99",Energia Elétrica,674
+EEEL4,"350,00",PN N1,11/11/2021,CEEE PN N1,"236,72",Energia Elétrica,"350,00",Energia Elétrica,2.625
+DOTZ3,"3,43",ON NM,30/11/2021,DOTZ SA ON NM,"3,43",Diversos,"17,15",Programas de Fidelização,546.016
+DOHL3,"17,51",ON,26/11/2021,DOHLER ON,"17,51","Tecidos, Vestuário e Calçados","44,63",Fios e Tecidos,721
+EBEN4,"17,51",PN,16/06/2005,BANDEIRANTE PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+DMMO3,"0,61",ON,30/11/2021,DOMMO ON,"0,59","Petróleo, Gás e Biocombustíveis","1,56","Exploração, Refino e Distribuição",2.898.050
+DIRR3,"10,18",ON NM,30/11/2021,Direcional Engenharia ON NM,"9,54",Construção Civil,"15,02",Incorporações,19.579.700
+DHBI4,"1,01",PN,30/12/2015,DHB PN,"0,00",Material de Transporte,"0,00",Material Rodoviário,0
+EALT3,"11,10",ON,30/11/2021,ELECTRO AÇO ALTONA S/A ON,"11,10",Máquinas e Equipamentos,"21,38",Máq. e Equip. Industriais,5.038
+DURA3,"31,90",ON,07/10/2009,DURATEX ON,"0,00",Madeira e Papel,"0,00",Madeira,0
+DURA4,"31,39",PN,07/10/2009,DURATEX PN,"0,00",Madeira e Papel,"0,00",Madeira,0
+DEXP4,"7,39",PN,30/11/2021,DEXXOS PAR PN,"7,01",Químicos,"15,37",Petroquímicos,57.741
+DUQE4,"2,95",PN,19/12/2014,METALURGICA DUQUE SA PN,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+DUFB11,"0,00",DR3,-,DUFRY SOUTH AMERICA LTD. DR3,"0,00",Comércio,"0,00",Produtos Diversos,0
+DTCY3,"7,50",ON,26/11/2021,DTCOM ON,"6,81",Serviços Diversos,"14,00",Serviços Diversos,8.665
+DASA3,"34,85",ON,30/11/2021,DIAGNOSTICOS DA AMERICA SA ON,"33,87",Serv.Méd.Hospit. Análises e Diagnósticos,"199,00",Serv.Méd.Hospit. Análises e Diagnósticos,9.733.500
+DAGB33,"375,00",DR3,15/10/2018,DUFRY AG DR3,"0,00",Comércio,"0,00",Produtos Diversos,0
+CZRS3,"0,00",ON N1,30/12/1899,Cruzeiro Sul ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+DOHL4,"6,12",PN,30/11/2021,DOHLER PN,"4,80","Tecidos, Vestuário e Calçados","7,16",Fios e Tecidos,43.304
+DMVF3,"4,61",ON NM,30/11/2021,D1000VFARMA ON NM,"4,61",Comércio e Distribuição,"13,01",Medicamentos e Outros Produtos,616.578
+CVCB3,"13,62",ON NM,30/11/2021,CVC BRASIL ON NM,"13,62",Viagens e Lazer,"28,65",Viagens e Turismo,163.279.000
+CTSA8,"1,00",PND,22/12/2003,SANTANENSE PND,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+DHBI3,"19,00",ON,24/07/2014,DHB ON,"0,00",Material de Transporte,"0,00",Material Rodoviário,0
+DEXP3,"8,05",ON,30/11/2021,DEXXOS PAR ON,"5,68",Químicos,"17,30",Petroquímicos,5.630.300
+DAYC4,"8,90",PN N1,23/08/2016,Daycoval PN N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+DESK3,"16,55",ON NM,30/11/2021,DESKTOPSIGMA ON NM,"15,15",Telecomunicações,"26,45",Telecomunicações,9.149.450
+DAYC3,"0,00",ON N1,30/12/1899,Daycoval ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+CTIP3,"49,50",ON NM,29/03/2017,CETIP ON NM,"0,00",Serviços Financeiros Diversos,"0,00",Serviços Financeiros Diversos,0
+CSRN6,"14,70",PNB,17/11/2021,COSERN PNB,"12,64",Energia Elétrica,"54,83",Energia Elétrica,541
+CYRE4,"8,50",PN,24/06/2005,CYRELA BRAZIL REALTY PN,"0,00",Construção Civil,"0,00",Incorporações,0
+CZRS4,"2,49",PN,13/09/2012,Cruzeiro Sul PN,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+CYRE3,"13,60",PN,30/11/2021,CYRELA BRAZIL REALTY PN,"13,60",Construção Civil,"28,94",Incorporações,135.243.000
+CXSE3,"8,22",ON NM,30/11/2021,CAIXA SEGURI ON NM,"7,56",Previdência e Seguros,"13,05",Seguradoras,36.954.900
+CURY3,"6,73",ON NM,30/11/2021,CURY S/A ON NM,"6,60",Construção Civil,"11,13",Incorporações,6.690.530
+CTSA4,"1,39",PN,30/11/2021,SANTANENSE PN,"1,39","Tecidos, Vestuário e Calçados","3,80",Fios e Tecidos,62.030
+CTSA3,"1,91",ON,30/11/2021,SANTANENSE ON,"1,91","Tecidos, Vestuário e Calçados","3,77",Fios e Tecidos,38.237
+CTPC4,"6,50",PN,22/06/2007,CTM CITRUS SA PN,"0,00",Alimentos Processados,"0,00",Alimentos Diversos,0
+CTPC3,"0,20",ON,04/01/2012,CTM CITRUS SA ON,"0,00",Alimentos Processados,"0,00",Alimentos Diversos,0
+CTNM4,"3,74",PN,30/11/2021,COTEMINAS PN,"3,65","Tecidos, Vestuário e Calçados","7,70",Fios e Tecidos,87.255
+CTNM3,"9,10",ON,30/11/2021,COTEMINAS ON,"9,10","Tecidos, Vestuário e Calçados","13,70",Fios e Tecidos,1.243
+CTKA4,"14,41",PN,30/11/2021,KARSTEN PN,"14,40","Tecidos, Vestuário e Calçados","32,50",Fios e Tecidos,31.796
+CRPG6,"64,99",PNB,29/11/2021,CRISTAL PNB,"24,58",Químicos,"118,04",Químicos Diversos,27.209
+CSRN3,"16,87",ON,25/11/2021,COSERN ON,"13,11",Energia Elétrica,"25,92",Energia Elétrica,3.071
+CTKA3,"23,00",ON,22/11/2021,KARSTEN ON,"17,15","Tecidos, Vestuário e Calçados","38,06",Fios e Tecidos,2.019
+CSRN5,"15,30",PNA,16/11/2021,COSERN PNA,"13,22",Energia Elétrica,"25,73",Energia Elétrica,733
+CRFB3,"15,33",ON NM,30/11/2021,CARREFOUR BR ON NM,"15,33",Comércio e Distribuição,"22,94",Alimentos,73.743.100
+CRDE3,"20,84",ON,30/11/2021,CR2 ON,"18,22",Construção Civil,"28,00",Incorporações,4.685
+CSNA3,"21,76",ON,30/11/2021,CSN ON,"19,81",Siderurgia e Metalurgia,"50,37",Siderurgia,331.971.000
+CSMG3,"12,82",ON,30/11/2021,COPASA MG ON,"12,52",Água e Saneamento,"17,35",Água e Saneamento,28.413.900
+CPRE3,"18,23",ON NM,02/07/2020,CPFL RENOVAV ON NM,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CPNY3,"2,35",ON,26/11/2008,COMPANY S/A ON,"0,00",Construção Civil,"0,00",Incorporações,0
+CPLE6,"6,14",PNB,30/11/2021,COPEL PNB,"4,93",Energia Elétrica,"6,80",Energia Elétrica,114.914.000
+CPLE5,"30,01",PNA,30/11/2021,COPEL PNA,"9,56",Energia Elétrica,"54,42",Energia Elétrica,2.378
+CPLE3,"5,56",ON,30/11/2021,COPEL ON,"4,86",Energia Elétrica,"6,28",Energia Elétrica,12.083.100
+CSAN3,"21,25",ON,30/11/2021,COSAN SA INDUSTRIA E COMERCIO ON,"17,19","Petróleo, Gás e Biocombustíveis","27,20","Exploração, Refino e Distribuição",173.489.000
+CSED3,"6,50",ON NM,30/11/2021,CRUZEIRO EDU ON NM,"6,04",Diversos,"16,06",Serviços Educacionais,5.849.270
+CSAB4,"44,00",PN,17/11/2021,COMPANHIA DE SEGUROS ALIANÇA DA BAHIA PN,"40,04",Previdência e Seguros,"53,00",Seguradoras,1.461
+CSAB3,"65,00",ON,16/06/2021,COMPANHIA DE SEGUROS ALIANÇA DA BAHIA ON,"46,66",Previdência e Seguros,"69,01",Seguradoras,0
+CPFG3,"12,65",ON,29/07/2005,CPFL GERAÇÂO DE ENERGIA S/A ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CRPG3,"94,69",ON,30/11/2021,CRISTAL ON,"25,46",Químicos,"127,97",Químicos Diversos,237
+CRPG5,"54,00",PNA,30/11/2021,CRISTAL PNA,"24,99",Químicos,"118,71",Químicos Diversos,3.410.710
+COCE6,"35,00",PNB,20/03/2012,CIA ENERG CEARA - COELCE PNB,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+COCE5,"55,00",PNA,30/11/2021,CIA ENERG CEARA - COELCE PNA,"47,14",Energia Elétrica,"60,61",Energia Elétrica,1.086.870
+COCE3,"60,00",ON,29/11/2021,CIA ENERG CEARA - COELCE ON,"48,49",Energia Elétrica,"85,39",Energia Elétrica,766
+CRIV4,"5,79",PN,30/11/2021,ALFA FINANCEIRA PN,"5,52",Intermediários Financeiros,"6,40",Soc. Crédito e Financiamento,12.451
+CRIV3,"4,90",ON,30/11/2021,ALFA FINANCEIRA ON,"4,85",Intermediários Financeiros,"7,17",Soc. Crédito e Financiamento,1.867
+CREM4,"48,00",PN,07/05/2004,CREMER S.A. PN,"0,00",Medicamentos e Outros Produtos,"0,00",Medicamentos e Outros Produtos,0
+CREM3,"14,50",ON,24/10/2018,CREMER S.A. ON,"0,00",Medicamentos e Outros Produtos,"0,00",Medicamentos e Outros Produtos,0
+CLSC4,"69,25",PN N2,30/11/2021,CELESC PN N2,"45,88",Energia Elétrica,"78,26",Energia Elétrica,406.728
+CLSA3,"9,65",ON NM,30/11/2021,CLEARSALE ON NM,"9,65",Serviços Financeiros Diversos,"29,69",Serviços Financeiros Diversos,14.600.400
+CPFP4,"44,00",PN,02/01/2006,CPFL - PIRATININGA PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CPLE11,"29,36",UNT,30/11/2021,COPEL UNT,"25,96",Energia Elétrica,"33,13",Energia Elétrica,16.768.900
+CORR4,"82,00",PN,11/02/2021,CORREA RIBEIRO SA COM. IND. PN,"82,00",Exploração de Imóveis,"82,00",Exploração de Imóveis,0
+CORR3,"12,00",ON,15/06/2005,CORREA RIBEIRO SA COM. IND. ON,"0,00",Exploração de Imóveis,"0,00",Exploração de Imóveis,0
+CPFE3,"26,40",ON,30/11/2021,CPFL ENERGIA S.A. ON,"23,14",Energia Elétrica,"30,39",Energia Elétrica,118.963.000
+CPFG4,"12,26",PN,29/07/2005,CPFL GERAÇÂO DE ENERGIA S/A PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CGOS4,"16,00",PN,24/08/2004,CELG PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+COGN3,"2,48",ON,30/11/2021,COGNA ON,"2,35",Diversos,"5,30",Serviços Educacionais,112.554.000
+CNFB4,"5,99",PN N1,11/05/2012,CONFAB PN N1,"0,00",Siderurgia e Metalurgia,"0,00",Artefatos de Ferro e Aço,0
+CMIN3,"5,97",ON N2,30/11/2021,CSNMINERACAO ON N2,"5,21",Mineração,"10,51",Minerais Metálicos,58.572.100
+CMIG4,"13,14",PN N1,30/11/2021,CEMIG PN N1,"9,74",Energia Elétrica,"15,11",Energia Elétrica,144.132.000
+CMIG3,"17,30",ON N1,30/11/2021,CEMIG ON N1,"11,82",Energia Elétrica,"18,99",Energia Elétrica,8.550.520
+CESP4,"16,29",PN,27/07/2006,CESP CIA ENERGETICA SAO PAULO PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CESP3,"22,51",ON,30/11/2021,CESP CIA ENERGETICA SAO PAULO ON,"22,00",Energia Elétrica,"31,48",Energia Elétrica,265.408
+CLSC6,"0,00",PNB N2,-,CELESC PNB N2,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CLSC5,"39,01",PNA N2,25/04/2011,CELESC PNA N2,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CLSC3,"62,00",ON N2,29/11/2021,CELESC ON N2,"52,44",Energia Elétrica,"94,76",Energia Elétrica,10.326
+CIEL3,"2,07",ON NM,30/11/2021,CIELO ON NM,"2,07",Serviços Financeiros Diversos,"4,31",Serviços Financeiros Diversos,90.561.600
+CGRA4,"43,49",PN,30/11/2021,GRAZZIOTIN PN,"26,48",Comércio,"49,90","Tecidos, Vestuário e Calçados",773.734
+CGRA3,"44,99",ON,30/11/2021,GRAZZIOTIN ON,"29,15",Comércio,"50,85","Tecidos, Vestuário e Calçados",87.280
+CGOS3,"26,20",ON,08/10/2007,CELG ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+CGAS5,"149,99",PNAS,30/11/2021,COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS PNAS,"136,00",Gás,"182,28",Gás,254.077
+CGAS3,"149,99",ON,18/11/2021,COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS ON,"140,00",Gás,"186,39",Gás,3.654
+CEDO3,"7,00",ON,30/11/2021,CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA ON,"6,50","Tecidos, Vestuário e Calçados","17,20",Fios e Tecidos,8.178
+CEBR6,"16,70",PNB,30/11/2021,CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNB,"14,96",Energia Elétrica,"27,17",Energia Elétrica,376.652
+CEBR5,"16,45",PNA,30/11/2021,CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNA,"15,36",Energia Elétrica,"29,84",Energia Elétrica,60.614
+CESP5,"33,50",PNA,25/11/2021,CESP CIA ENERGETICA SAO PAULO PNA,"29,01",Energia Elétrica,"47,23",Energia Elétrica,246
+CEAB3,"6,46",ON NM,30/11/2021,CEA MODAS ON NM,"6,06",Comércio,"15,31","Tecidos, Vestuário e Calçados",23.353.300
+CCXC3,"1,16",ON NM,17/01/2020,CCX CARVAO ON NM,"1,14",Mineração,"2,34",Minerais Metálicos,0
+CESP6,"23,77",PNB,30/11/2021,CESP CIA ENERGETICA SAO PAULO PNB,"22,59",Energia Elétrica,"28,79",Energia Elétrica,66.930.600
+CEPE5,"26,32",PNA,23/11/2021,CELPE PNA,"22,04",Energia Elétrica,"31,00",Energia Elétrica,2.854
+CEPE6,"27,81",PNB,30/11/2021,CELPE PNB,"26,15",Energia Elétrica,"42,72",Energia Elétrica,6.010
+CEPE3,"128,00",ON,30/12/2020,CELPE ON,"27,63",Energia Elétrica,"128,00",Energia Elétrica,0
+CCHI4,"0,02",PN,23/11/2015,CHIARELLI PN,"0,00",Construção e Engenharia,"0,00",Produtos para Construção,0
+CBEE3,"23,00",ON,30/11/2021,AMPLA ENERG ON,"14,96",Energia Elétrica,"30,27",Energia Elétrica,2.302
+CEGR3,"60,00",ON,26/10/2021,CEG ON,"57,99",Gás,"113,74",Gás,450
+CEED3,"40,00",ON N1,23/11/2021,CEEE-D ON N1,"40,00",Energia Elétrica,"76,81",Energia Elétrica,528
+CEED4,"55,80",PN N1,13/08/2021,CEEE-D PN N1,"53,00",Energia Elétrica,"72,00",Energia Elétrica,0
+CEEB5,"39,00",PNA,17/09/2021,COELBA PNA,"35,72",Energia Elétrica,"54,53",Energia Elétrica,0
+CEDO4,"5,81",PN,30/11/2021,CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA PN,"5,04","Tecidos, Vestuário e Calçados","8,34",Fios e Tecidos,17.687
+CEEB3,"34,50",ON,30/11/2021,COELBA ON,"33,70",Energia Elétrica,"56,53",Energia Elétrica,39.378
+CALI4,"50,00",PN,22/12/2020,CAL S/A PN,"48,00",Construção Civil,"50,00",Incorporações,0
+CEBR3,"16,60",ON,30/11/2021,CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA ON,"14,44",Energia Elétrica,"27,86",Energia Elétrica,90.465
+CCRO3,"12,31",ON NM,30/11/2021,COMPANHIA DE CONCESSÕES RODOVIÁRIAS ON NM,"10,80",Transporte,"14,12",Exploração de Rodovias,187.998.000
+CCIM3,"5,52",ON NM,18/10/2012,CC DES IMOB ON NM,"0,00",Construção Civil,"0,00",Incorporações,0
+CCHI3,"0,02",ON,23/11/2015,CHIARELLI ON,"0,00",Construção e Engenharia,"0,00",Produtos para Construção,0
+CBAV3,"11,97",ON NM,30/11/2021,CBA ON NM,"10,27",Mineração,"16,30",Minerais Metálicos,38.644.300
+CASN3,"15,01",ON,05/08/2021,CASAN ON,"15,01",Água e Saneamento,"15,01",Água e Saneamento,0
+CASH3,"2,99",ON NM,30/11/2021,MELIUZ ON NM,"1,61",Programas e Serviços,"12,33",Programas e Serviços,191.349.000
+BSLI4,"14,03",ON,30/11/2021,BRB ON,"14,03",Intermediários Financeiros,"103,87",Bancos,6.147
+CARD3,"12,58",ON NM,30/11/2021,CSU CARDSYST ON NM,"12,58",Serviços Diversos,"27,21",Serviços Diversos,6.227.010
+CAML3,"9,57",ON NM,30/11/2021,CAMIL ON NM,"8,60",Alimentos Processados,"11,50",Alimentos Diversos,18.712.300
+CAMB4,"6,25",PN,20/12/2019,PENALTY PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Calçados,0
+CAMB3,"4,79",ON,30/11/2021,PENALTY ON,"3,63","Tecidos, Vestuário e Calçados","6,20",Calçados,188.526
+CALI3,"98,18",ON,05/11/2018,CAL S/A ON,"0,00",Construção Civil,"0,00",Incorporações,0
+BRSR4,"181,10",PN,21/06/2007,BANRISUL S/A PN,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BUET4,"18,49",PN,11/06/2010,BUETTNER S/A - INDUSTRIA E COMERCIO PN,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+BUET3,"24,99",ON,11/06/2010,BUETTNER S/A - INDUSTRIA E COMERCIO ON,"0,00","Tecidos, Vestuário e Calçados","0,00",Fios e Tecidos,0
+BRKM6,"31,00",PNB N1,18/11/2021,BRASKEM PNB N1,"17,60",Químicos,"44,00",Petroquímicos,719
+BTTL3,"20,19",ON,09/06/2021,EMBPAR S/A ON,"5,60",Comércio,"22,32",Material de Transporte,395.854
+BSLI3,"26,00",ON,30/11/2021,BRB ON,"15,49",Intermediários Financeiros,"105,24",Bancos,4.378
+BRKM3,"46,50",ON N1,30/11/2021,BRASKEM ON N1,"22,55",Químicos,"65,80",Petroquímicos,407.433
+BSEV3,"9,00",ON NM,14/05/2021,BIOSEV ON NM,"4,73",Alimentos Processados,"9,86",Açucar e Alcool,0
+BSCT6,"2,58",PNBANT,10/02/2009,BESC S.A. PNBANT,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BSCT5,"3,50",PNAANT,10/02/2009,BESC S.A. PNAANT,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BRGE7,"5,40",PNC,04/06/2019,CONSORCIO ALFA PNC,"0,00",Previdência e Seguros,"0,00",Seguradoras,0
+BRGE5,"10,41",PNA,03/08/2021,CONSORCIO ALFA PNA,"10,15",Previdência e Seguros,"27,89",Seguradoras,0
+BRSR6,"10,10",PNB,30/11/2021,BANRISUL S/A PNB,"9,96",Intermediários Financeiros,"14,13",Bancos,27.402.800
+BSCT3,"4,05",ON,09/05/2007,BESC S.A. ON,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BRSR5,"17,30",PNA,19/11/2021,BANRISUL S/A PNA,"15,79",Intermediários Financeiros,"19,91",Bancos,593
+BRPR3,"7,20",ON NM,30/11/2021,BR PROPERTIES ON NM,"7,15",Exploração de Imóveis,"10,61",Exploração de Imóveis,17.074.900
+BRML3,"7,90",ON,30/11/2021,BR MALLS PARTICIPAÇÔES S/A ON,"6,97",Exploração de Imóveis,"11,80",Exploração de Imóveis,161.980.000
+BRSR3,"11,49",ON,30/11/2021,BANRISUL S/A ON,"11,40",Intermediários Financeiros,"15,35",Bancos,89.229
+BRIV3,"8,75",ON,26/11/2021,ALFA DE INVESTIMENTO ON,"8,38",Intermediários Financeiros,"15,98",Bancos,1.496
+BRKM5,"50,05",PNA N1,30/11/2021,BRASKEM PNA N1,"21,21",Químicos,"70,17",Petroquímicos,152.946.000
+BRIT3,"5,70",ON NM,30/11/2021,BRISANET ON NM,"5,70",Telecomunicações,"13,98",Telecomunicações,5.223.820
+BRIV4,"8,00",PN,30/11/2021,ALFA DE INVESTIMENTO PN,"7,92",Intermediários Financeiros,"10,45",Bancos,14.765
+BRGE8,"10,24",PND,12/11/2021,CONSORCIO ALFA PND,"7,61",Previdência e Seguros,"11,72",Seguradoras,26
+BRGE6,"12,99",PNB,20/07/2021,CONSORCIO ALFA PNB,"11,94",Previdência e Seguros,"18,01",Seguradoras,0
+BRGE3,"7,52",ON,30/11/2021,CONSORCIO ALFA ON,"7,52",Previdência e Seguros,"11,15",Seguradoras,1.786
+BRBI11,"16,61",UNT N2,30/11/2021,BR PARTNERS UNT N2,"16,55",Intermediários Financeiros,"28,34",Bancos,4.365.450
+BRAP4,"49,75",PN N1,30/11/2021,BRADESPAR S/A PN N1,"44,90",Mineração,"70,47",Minerais Metálicos,160.115.000
+BRFS3,"19,75",ON NM,30/11/2021,BRF Foods ON NM,"19,75",Alimentos Processados,"30,07",Carnes e Derivados,170.935.000
+BRAP3,"47,30",ON N1,30/11/2021,BRADESPAR S/A ON N1,"42,19",Mineração,"59,90",Minerais Metálicos,8.745.780
+BPNM3,"0,00",ON N1,30/12/1899,BANCO PAN ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BNBR4,"27,01",PN,19/02/2014,BANCO DO NORDESTE PN,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BNBR3,"67,98",ON,22/11/2021,BANCO DO NORDESTE ON,"61,95",Intermediários Financeiros,"72,62",Bancos,13.785
+BMKS3,"230,39",ON,30/11/2021,MONARK ON,"214,95",Viagens e Lazer,"287,29",Bicicletas,115.977
+BMIN4,"17,55",PN,30/11/2021,BANCO MERCANTIL DE INVESTIMENTOS SA PN,"17,00",Intermediários Financeiros,"24,83",Bancos,7.768
+BPIA3,"6,10",ON,10/11/2009,BEP ON,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BPAC5,"4,97",PNA,30/11/2021,BTGP BANCO PNA,"4,34",Intermediários Financeiros,"8,78",Bancos,103.687
+BMGB11,"33,60",UNT N1,28/11/2019,BANCO BMG UNT N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BMEF3,"11,00",ON,19/08/2008,BMF ON,"0,00",Serviços Financeiros Diversos,"0,00",Serviços Financeiros Diversos,0
+BMEB4,"18,15",PN,30/11/2021,BANCO MERCANTIL DO BRASIL S/A PN,"14,67",Intermediários Financeiros,"21,03",Bancos,59.261
+BPAC11,"20,94",UNT,30/11/2021,BTGP BANCO UNT,"19,64",Intermediários Financeiros,"32,11",Bancos,360.803.000
+BPAN4,"11,26",PN,30/11/2021,BANCO PAN PN,"9,18",Intermediários Financeiros,"25,58",Bancos,113.554.000
+BPAC3,"13,49",ON,30/11/2021,BTGP BANCO ON,"10,10",Intermediários Financeiros,"21,19",Bancos,133.511
+BPHA3,"0,62",ON NM,10/06/2019,BRAZIL PHARMA S.A. ON NM,"0,62",Comércio e Distribuição,"1,69",Medicamentos e Outros Produtos,0
+BPAT33,"20,00",DR3,19/02/2013,Patagonia DR3,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BPAR3,"182,07",ON,21/02/2019,BANPARÁ S.A. ON,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BOVH3,"15,71",ON NM,19/08/2008,Bovespa Hld ON NM,"0,00",Serviços Financeiros Diversos,"0,00",Serviços Financeiros Diversos,0
+BLUT3,"3,00",ON,05/11/2021,B TECH EQI ON,"0,56",Outros,"4,75",Outros,1.399.350
+BIOM4,"8,68",PN,30/08/2013,BIOMM SA PN,"0,00",Medicamentos e Outros Produtos,"0,00",Medicamentos e Outros Produtos,0
+BIOM3,"13,00",ON,30/11/2021,BIOMM SA ON,"12,20",Medicamentos e Outros Produtos,"17,95",Medicamentos e Outros Produtos,106.702
+BIDI3,"12,06",ON N2,30/11/2021,BANCO INTER ON N2,"8,05",Intermediários Financeiros,"28,22",Bancos,24.489.100
+BOBR4,"1,71",PN,30/11/2021,BOMBRIL SA PN,"1,68",Produtos de Uso Pessoal e de Limpeza,"3,16",Produtos de Limpeza,103.097
+BOBR3,"1,00",ON,14/01/2020,BOMBRIL SA ON,"0,00",Produtos de Uso Pessoal e de Limpeza,"0,00",Produtos de Limpeza,0
+BOAS3,"7,50",ON NM,30/11/2021,BOA VISTA ON NM,"7,50",Serviços Financeiros Diversos,"14,00",Serviços Financeiros Diversos,9.816.020
+BGIP4,"23,30",PN,30/11/2021,BANESE PN,"21,63",Intermediários Financeiros,"26,00",Bancos,5.570
+BMIN3,"24,98",ON,19/11/2021,BANCO MERCANTIL DE INVESTIMENTOS SA ON,"19,70",Intermediários Financeiros,"26,75",Bancos,1.074
+BMGB4,"2,89",PN N1,30/11/2021,BANCO BMG PN N1,"2,88",Intermediários Financeiros,"6,23",Bancos,3.999.100
+BNCA3,"70,30",ON,08/04/2010,NOSSA CAIXA-NOSSO BANCO ON,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BMOB3,"14,40",ON NM,30/11/2021,BEMOBI TECH ON NM,"12,77",Programas e Serviços,"26,61",Programas e Serviços,18.917.000
+BMEB3,"22,00",ON,30/11/2021,BANCO MERCANTIL DO BRASIL S/A ON,"14,88",Intermediários Financeiros,"25,60",Bancos,4.586
+BLUT4,"1,16",PN,05/11/2021,B TECH EQI PN,"0,30",Outros,"3,31",Outros,876.429
+BLAU3,"33,70",ON NM,30/11/2021,BLAU ON NM,"33,30",Comércio e Distribuição,"53,84",Medicamentos e Outros Produtos,17.473.700
+BEES3,"4,69",ON,30/11/2021,BANESTES S/A ON,"4,60",Intermediários Financeiros,"5,39",Bancos,73.740
+BIDI11,"36,23",UNT N2,30/11/2021,BANCO INTER UNT N2,"24,73",Intermediários Financeiros,"84,90",Bancos,449.297.000
+BICB3,"8,00",ON N1,24/09/2015,BicBanco ON N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BICB4,"8,25",PN N1,16/10/2015,BicBanco PN N1,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BISA3,"1,58",ON NM,02/01/2015,BROOKFIELD INCORPORACOES ON NM,"0,00",Construção Civil,"0,00",Incorporações,0
+BKBR3,"6,56",ON NM,30/11/2021,BK BRASIL ON NM,"6,56",Hoteis e Restaurantes,"12,40",Restaurante e Similares,24.693.100
+BHGR3,"19,10",ON NM,08/06/2015,BHG ON NM,"0,00",Exploração de Imóveis,"0,00",Exploração de Imóveis,0
+BIDI4,"11,95",PN N2,30/11/2021,BANCO INTER PN N2,"8,41",Intermediários Financeiros,"28,50",Bancos,144.750.000
+BBSE3,"20,88",ON NM,30/11/2021,BBSEGURIDADE ON NM,"18,40",Previdência e Seguros,"28,98",Seguradoras,120.797.000
+BBDC4,"19,91",PN N1,30/11/2021,BANCO BRADESCO S.A. PN N1,"19,05",Intermediários Financeiros,"27,84",Bancos,938.608.000
+BGIP3,"31,10",ON,30/11/2021,BANESE ON,"31,00",Intermediários Financeiros,"43,90",Bancos,2.366
+BBAS3,"31,84",ON,30/11/2021,BANCO DO BRASIL S.A. ON,"26,61",Intermediários Financeiros,"37,52",Bancos,450.170.000
+BAZA3,"38,60",ON,30/11/2021,BANCO DA AMAZONIA S.A. ON,"35,20",Intermediários Financeiros,"41,84",Bancos,29.434
+BEMA3,"10,80",ON NM,27/10/2015,Bematech ON NM,"0,00",Computadores e Equipamentos,"0,00",Computadores e Equipamentos,0
+BEES4,"5,72",PN,30/11/2021,BANESTES S/A PN,"5,32",Intermediários Financeiros,"6,14",Bancos,15.470
+B3SA3,"11,11",ON,30/11/2021,B3 ON,"11,11",Serviços Financeiros Diversos,"20,17",Serviços Financeiros Diversos,591.774.000
+BDLL3,"12,00",ON,30/11/2021,BAEDELLA ON,"8,00",Máquinas e Equipamentos,"24,31",Máq. e Equip. Industriais,30.290
+BEEF3,"8,58",ON NM,30/11/2021,Minerva ON NM,"7,53",Alimentos Processados,"10,82",Carnes e Derivados,84.059.500
+BDLL4,"10,90",PN,30/11/2021,BAEDELLA PN,"8,79",Máquinas e Equipamentos,"16,50",Máq. e Equip. Industriais,6.212
+AZEV3,"3,56",ON,30/11/2021,AZEVEDO & TRAVASSOS ON,"3,56",Construção e Engenharia,"8,23",Construção Pesada,518.536
+AVLL3,"24,00",ON NM,30/11/2021,ALPHAVILLE ON NM,"19,16",Construção Civil,"31,94",Incorporações,636.067
+BBRK3,"1,06",ON NM,30/11/2021,BR Brokers ON NM,"1,06",Exploração de Imóveis,"4,00",Intermediação Imobiliária,3.370.530
+BBTG11,"15,01",UNT,18/08/2017,BTG PACTUAL UNITS UNT,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+BALM3,"15,81",ON,30/11/2021,BAUMER ON,"15,21",Equipamentos,"24,24",Equipamentos,2.567
+BAUH4,"83,70",PN,30/11/2021,EXCELSIOR PN,"76,98",Alimentos Processados,"97,09",Carnes e Derivados,32.548
+BALM4,"13,70",PN,30/11/2021,BAUMER PN,"12,84",Equipamentos,"21,30",Equipamentos,11.444
+BBDC3,"17,02",ON N1,30/11/2021,BANCO BRADESCO S.A. ON N1,"16,54",Intermediários Financeiros,"23,85",Bancos,142.797.000
+ARZZ3,"67,16",ON NM,30/11/2021,AREZZO CO ON NM,"62,61",Comércio,"100,81","Tecidos, Vestuário e Calçados",75.593.600
+ARTR3,"10,01",ON,16/06/2016,ARTERIS ON,"0,00",Transporte,"0,00",Exploração de Rodovias,0
+AZUL4,"23,38",PN,30/11/2021,AZUL PN,"23,30",Transporte,"48,55",Transporte Aéreo,238.767.000
+BAHI5,"65,00",PNA,22/09/2006,BAHEMA PNA,"0,00",Diversos,"0,00",Serviços Educacionais,0
+BAHI4,"86,00",PN,02/07/2009,BAHEMA PN,"0,00",Diversos,"0,00",Serviços Educacionais,0
+BAHI3,"13,78",ON,30/11/2021,BAHEMA ON,"13,01",Diversos,"17,30",Serviços Educacionais,27.013
+ARCZ6,"3,63",PNB N1,17/11/2009,ARACRUZ CELULOSE SA PNB N1,"0,00",Madeira e Papel,"0,00",Papel e Celulose,0
+AZEV4,"2,84",PN,30/11/2021,AZEVEDO & TRAVASSOS PN,"2,19",Construção e Engenharia,"7,64",Construção Pesada,2.404.300
+AVIL3,"0,93",ON,04/02/2011,ACOS VILLARES ON,"0,00",Siderurgia e Metalurgia,"0,00",Siderurgia,0
+AUTM3,"19,70",ON NM,13/10/2014,AUTOMETAL ON NM,"0,00",Material de Transporte,"0,00",Material Rodoviário,0
+AURA33,"44,25",DR3,30/11/2021,AURA 360 DR3,"44,25",Mineração,"69,25",Minerais Metálicos,5.452.660
+ANIM3,"8,56",ON NM,30/11/2021,ANIMA ON NM,"6,60",Diversos,"14,30",Serviços Educacionais,28.831.200
+AMPI3,"55,00",ON,17/04/2012,AMPLA INVEST ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+ATOM3,"3,09",ON,30/11/2021,ATOMPAR ON,"2,96",Outros,"11,30",Outros,111.373
+ATMP3,"3,53",ON,30/11/2021,ATMASA ON,"2,24",Serviços Diversos,"12,53",Serviços Diversos,194.069
+ASAI3,"12,75",ON NM,30/11/2021,ASSAI ON NM,"12,75",Comércio e Distribuição,"19,45",Alimentos,210.935.000
+AESL3,"10.081,90",ON,06/04/2005,AES SUL DISTRIB. GAÚCHA DE ENERGIA S.A. ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+AERI3,"7,85",ON NM,30/11/2021,AERIS ON NM,"6,86",Máquinas e Equipamentos,"13,13",Máq. e Equip. Industriais,14.125.700
+ARML3,"21,65",ON NM,30/11/2021,ARMAC ON NM,"18,96",Diversos,"26,74",Aluguel de carros,17.496.400
+ARCZ3,"3,66",ON N1,17/11/2009,ARACRUZ CELULOSE SA ON N1,"0,00",Madeira e Papel,"0,00",Papel e Celulose,0
+AEDU11,"37,35",UNT,03/12/2010,ANHANGUERA EDUCACIONAL PARTICIPAÇÕES SA UNT,"0,00",Diversos,"0,00",Serviços Educacionais,0
+ACES4,"94,73",PN,24/04/2008,ARCELORMITTAL INOX BRASIL PN,"0,00",Siderurgia e Metalurgia,"0,00",Siderurgia,0
+ACES3,"95,27",ON,18/04/2008,ARCELORMITTAL INOX BRASIL ON,"0,00",Siderurgia e Metalurgia,"0,00",Siderurgia,0
+ABYA3,"4,91",ON NM,11/02/2010,ABYARA ON NM,"0,00",Construção Civil,"0,00",Incorporações,0
+ABEV3,"16,06",ON,30/11/2021,AMBEV S/A ON,"13,77",Bebidas,"19,60",Cervejas e Refrigerantes,432.646.000
+ABCB4,"16,93",PN N2,30/11/2021,ABC Brasil PN N2,"13,71",Intermediários Financeiros,"17,55",Bancos,15.340.700
+ABCB3,"0,00",ON N2,30/12/1899,ABC Brasil ON N2,"0,00",Intermediários Financeiros,"0,00",Bancos,0
+APER3,"28,95",ON,30/11/2021,ALPER S.A. ON,"27,80",Previdência e Seguros,"60,48",Corretoras de Seguros,1.673.870
+APTI4,"3.500,00",PN,01/08/2018,ALIPERTI PN,"0,00",Agropecuária,"0,00",Agricultura,0
+AGEI3,"7,80",ON NM,11/06/2010,AGRE EMP IMOB ON NM,"0,00",Construção Civil,"0,00",Incorporações,0
+AFLU3,"5,15",ON,22/11/2017,AFLUENTE ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+AFLU5,"5,03",PNA,23/11/2017,AFLUENTE PNA,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+AFLT3,"8,66",ON,30/11/2021,AFLUENTE T ON,"8,23",Energia Elétrica,"10,88",Energia Elétrica,6.958
+AESL4,"10.081,90",PN,06/04/2005,AES SUL DISTRIB. GAÚCHA DE ENERGIA S.A. PN,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+AELP3,"1,93",ON,05/09/2018,AES ELPA ON,"0,00",Energia Elétrica,"0,00",Energia Elétrica,0
+AEDU3,"18,35",ON NM,03/07/2014,ANHANGUERA EDUCACIONAL PARTICIPAÇÕES SA ON NM,"0,00",Diversos,"0,00",Serviços Educacionais,0
+AESB3,"11,30",ON NM,30/11/2021,AES BRASIL ON NM,"10,90",Energia Elétrica,"17,40",Energia Elétrica,19.087.200
